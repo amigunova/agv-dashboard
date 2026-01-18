@@ -1,0 +1,1329 @@
+VehicleNumber,EventTime,Duration_min,EventCategory,Date,Hour,Weekday
+1,2025-12-08 06:13:33,3,Klammer Timeout,2025-12-08,6,Monday
+1,2025-12-08 23:12:50,1,Sonstige,2025-12-08,23,Monday
+1,2025-12-09 08:38:09,2,Klammer Timeout,2025-12-09,8,Tuesday
+1,2025-12-09 16:19:23,0,Handbetrieb,2025-12-09,16,Tuesday
+1,2025-12-09 16:29:19,0,Sicherheitsfeld / SICK,2025-12-09,16,Tuesday
+1,2025-12-09 22:36:36,1,Sonstige,2025-12-09,22,Tuesday
+1,2025-12-10 16:53:45,5,Sicherheitsfeld / SICK,2025-12-10,16,Wednesday
+1,2025-12-10 16:58:51,0,Sonstige,2025-12-10,16,Wednesday
+1,2025-12-10 20:55:40,2,Notstopp (sonstige),2025-12-10,20,Wednesday
+1,2025-12-11 19:26:11,3,Notstopp (sonstige),2025-12-11,19,Thursday
+1,2025-12-12 18:32:56,1,Handbetrieb,2025-12-12,18,Friday
+1,2025-12-12 23:23:41,2,Sonstige,2025-12-12,23,Friday
+1,2025-12-13 02:45:08,25,Sicherheitsfeld / SICK,2025-12-13,2,Saturday
+1,2025-12-13 13:29:39,0,Sonstige,2025-12-13,13,Saturday
+1,2025-12-13 17:21:55,2,Handbetrieb,2025-12-13,17,Saturday
+1,2025-12-13 17:27:54,4,Sonstige,2025-12-13,17,Saturday
+1,2025-12-14 17:55:08,4,Handbetrieb,2025-12-14,17,Sunday
+1,2025-12-15 06:06:53,0,Sonstige,2025-12-15,6,Monday
+1,2025-12-15 06:39:20,20,Sonstige,2025-12-15,6,Monday
+1,2025-12-15 13:01:02,3,Klammer Timeout,2025-12-15,13,Monday
+1,2025-12-16 15:02:20,14,Klammer Timeout,2025-12-16,15,Tuesday
+1,2025-12-17 00:26:50,4,Notstopp (sonstige),2025-12-17,0,Wednesday
+1,2025-12-18 00:58:24,2,Sonstige,2025-12-18,0,Thursday
+1,2025-12-18 13:26:18,1,Sonstige,2025-12-18,13,Thursday
+1,2025-12-18 21:34:16,0,Notstopp (sonstige),2025-12-18,21,Thursday
+1,2025-12-19 05:20:06,0,Sonstige,2025-12-19,5,Friday
+1,2026-01-08 11:12:48,0,Sonstige,2026-01-08,11,Thursday
+1,2026-01-09 06:18:31,0,Sonstige,2026-01-09,6,Friday
+1,2026-01-09 06:51:01,129,Sonstige,2026-01-09,6,Friday
+1,2026-01-10 06:20:08,0,Sonstige,2026-01-10,6,Saturday
+1,2026-01-10 15:24:47,5,Notstopp (sonstige),2026-01-10,15,Saturday
+1,2026-01-10 18:50:40,2,Sonstige,2026-01-10,18,Saturday
+1,2026-01-11 18:48:41,3,Sonstige,2026-01-11,18,Sunday
+2,2025-12-07 12:55:15,19,Notstopp (sonstige),2025-12-07,12,Sunday
+2,2025-12-07 13:14:18,10,Sonstige,2025-12-07,13,Sunday
+2,2025-12-08 23:27:08,2,Notstopp (sonstige),2025-12-08,23,Monday
+2,2025-12-09 04:45:27,9,Klammer Timeout,2025-12-09,4,Tuesday
+2,2025-12-11 06:32:31,5,Sonstige,2025-12-11,6,Thursday
+2,2025-12-13 01:06:26,7,Navigation,2025-12-13,1,Saturday
+2,2025-12-13 01:14:28,2,Navigation,2025-12-13,1,Saturday
+2,2025-12-13 07:39:35,6,Blockung,2025-12-13,7,Saturday
+2,2025-12-13 07:51:39,1,Notstopp (sonstige),2025-12-13,7,Saturday
+2,2025-12-13 19:20:19,1,Sicherheitsfeld / SICK,2025-12-13,19,Saturday
+2,2025-12-13 19:33:13,2,Handbetrieb,2025-12-13,19,Saturday
+2,2025-12-13 20:16:41,0,Sonstige,2025-12-13,20,Saturday
+2,2025-12-13 20:49:41,847,Sonstige,2025-12-13,20,Saturday
+2,2025-12-14 11:54:42,0,Handbetrieb,2025-12-14,11,Sunday
+2,2025-12-14 14:38:41,0,Notstopp (sonstige),2025-12-14,14,Sunday
+2,2025-12-15 13:42:02,2,Notstopp (sonstige),2025-12-15,13,Monday
+2,2025-12-15 20:27:31,4,Notstopp (sonstige),2025-12-15,20,Monday
+2,2025-12-16 15:54:02,0,Sonstige,2025-12-16,15,Tuesday
+2,2025-12-17 07:47:27,4,Sonstige,2025-12-17,7,Wednesday
+2,2025-12-17 08:08:42,0,Notstopp (sonstige),2025-12-17,8,Wednesday
+4,2025-12-08 11:18:26,2,Notstopp (sonstige),2025-12-08,11,Monday
+4,2025-12-08 12:37:01,3,Sonstige,2025-12-08,12,Monday
+4,2025-12-08 12:54:40,62,Handbetrieb,2025-12-08,12,Monday
+4,2025-12-09 21:32:55,1,Handbetrieb,2025-12-09,21,Tuesday
+4,2025-12-09 23:29:42,4,Sonstige,2025-12-09,23,Tuesday
+4,2025-12-10 11:31:40,7,Sonstige,2025-12-10,11,Wednesday
+4,2025-12-10 12:39:38,6,Beladung nicht plausibel,2025-12-10,12,Wednesday
+4,2025-12-12 18:37:42,2,Handbetrieb,2025-12-12,18,Friday
+4,2025-12-13 01:18:17,29,Notstopp (sonstige),2025-12-13,1,Saturday
+4,2025-12-13 02:41:58,7,Notstopp (sonstige),2025-12-13,2,Saturday
+4,2025-12-13 20:09:07,2,Sonstige,2025-12-13,20,Saturday
+4,2025-12-14 05:29:55,1,Handbetrieb,2025-12-14,5,Sunday
+4,2025-12-14 09:50:19,9,Notstopp (sonstige),2025-12-14,9,Sunday
+4,2025-12-14 10:10:11,9,Beladung nicht plausibel,2025-12-14,10,Sunday
+4,2025-12-14 12:03:45,1,Notstopp (sonstige),2025-12-14,12,Sunday
+4,2025-12-14 15:30:01,11,Beladung nicht plausibel,2025-12-14,15,Sunday
+4,2025-12-14 18:22:45,9,Handbetrieb,2025-12-14,18,Sunday
+4,2025-12-14 19:40:27,4,Handbetrieb,2025-12-14,19,Sunday
+4,2025-12-15 06:41:31,9,Beladung nicht plausibel,2025-12-15,6,Monday
+4,2025-12-15 07:03:02,1,Sonstige,2025-12-15,7,Monday
+4,2025-12-15 17:01:38,2,Notstopp (sonstige),2025-12-15,17,Monday
+4,2025-12-15 18:06:38,0,Notstopp (sonstige),2025-12-15,18,Monday
+4,2025-12-16 09:14:28,7,Notstopp (sonstige),2025-12-16,9,Tuesday
+4,2025-12-16 09:21:00,8,Notstopp (sonstige),2025-12-16,9,Tuesday
+4,2025-12-17 00:45:47,2,Handbetrieb,2025-12-17,0,Wednesday
+4,2025-12-17 01:05:12,24,Sonstige,2025-12-17,1,Wednesday
+4,2025-12-17 01:39:39,3,Notstopp (sonstige),2025-12-17,1,Wednesday
+4,2025-12-17 04:39:44,4,Beladung nicht plausibel,2025-12-17,4,Wednesday
+4,2025-12-17 11:19:38,1,Klammer Timeout,2025-12-17,11,Wednesday
+4,2025-12-17 16:23:27,7,Beladung nicht plausibel,2025-12-17,16,Wednesday
+4,2025-12-17 21:56:04,18,Notstopp (sonstige),2025-12-17,21,Wednesday
+4,2025-12-17 22:14:13,1,Notstopp (sonstige),2025-12-17,22,Wednesday
+4,2025-12-17 23:10:37,6,Beladung nicht plausibel,2025-12-17,23,Wednesday
+4,2025-12-17 23:16:29,2,Beladung nicht plausibel,2025-12-17,23,Wednesday
+4,2025-12-19 01:37:06,1,Klammer Timeout,2025-12-19,1,Friday
+4,2026-01-10 06:12:42,1,Sonstige,2026-01-10,6,Saturday
+4,2026-01-10 08:04:09,4,Sonstige,2026-01-10,8,Saturday
+4,2026-01-10 08:09:13,3,Sonstige,2026-01-10,8,Saturday
+4,2026-01-10 10:56:54,7,Beladung nicht plausibel,2026-01-10,10,Saturday
+4,2026-01-10 20:51:27,4,Notstopp (sonstige),2026-01-10,20,Saturday
+4,2026-01-12 11:04:10,8,Navigation,2026-01-12,11,Monday
+5,2025-12-09 16:16:30,1,Handbetrieb,2025-12-09,16,Tuesday
+5,2025-12-10 17:40:01,0,Blockung,2025-12-10,17,Wednesday
+5,2025-12-10 21:43:22,0,Sonstige,2025-12-10,21,Wednesday
+5,2025-12-11 04:22:39,2,Sonstige,2025-12-11,4,Thursday
+5,2025-12-11 05:46:51,3,Notstopp (sonstige),2025-12-11,5,Thursday
+5,2025-12-11 06:21:15,7,Sonstige,2025-12-11,6,Thursday
+5,2025-12-11 06:29:02,0,Sonstige,2025-12-11,6,Thursday
+5,2025-12-11 15:45:18,42,Sonstige,2025-12-11,15,Thursday
+5,2025-12-12 06:08:24,3,Sonstige,2025-12-12,6,Friday
+5,2025-12-12 22:34:35,3,Notstopp (sonstige),2025-12-12,22,Friday
+5,2025-12-13 04:08:05,2,Notstopp (sonstige),2025-12-13,4,Saturday
+5,2025-12-13 06:53:00,38,Notstopp (sonstige),2025-12-13,6,Saturday
+5,2025-12-13 07:34:30,1,Notstopp (sonstige),2025-12-13,7,Saturday
+5,2025-12-13 07:54:32,0,Notstopp (sonstige),2025-12-13,7,Saturday
+5,2025-12-13 07:59:33,0,Notstopp (sonstige),2025-12-13,7,Saturday
+5,2025-12-13 20:11:11,1,Sonstige,2025-12-13,20,Saturday
+5,2025-12-14 01:51:57,5,Notstopp (sonstige),2025-12-14,1,Sunday
+5,2025-12-14 10:31:10,2,Sonstige,2025-12-14,10,Sunday
+5,2025-12-15 11:21:17,1,Handbetrieb,2025-12-15,11,Monday
+5,2025-12-16 08:43:15,2,Sonstige,2025-12-16,8,Tuesday
+5,2025-12-16 15:34:00,6,Notstopp (sonstige),2025-12-16,15,Tuesday
+5,2025-12-17 00:55:02,7,Notstopp (sonstige),2025-12-17,0,Wednesday
+5,2025-12-17 01:19:00,25,Notstopp (sonstige),2025-12-17,1,Wednesday
+5,2025-12-17 01:45:14,5,Notstopp (sonstige),2025-12-17,1,Wednesday
+5,2025-12-18 11:47:14,9,Notstopp (sonstige),2025-12-18,11,Thursday
+5,2025-12-18 12:06:02,0,Sonstige,2025-12-18,12,Thursday
+5,2025-12-18 17:02:44,2,Handbetrieb,2025-12-18,17,Thursday
+5,2025-12-19 01:08:31,1,Handbetrieb,2025-12-19,1,Friday
+5,2025-12-19 03:35:16,1,Notstopp (sonstige),2025-12-19,3,Friday
+5,2026-01-08 10:37:10,7,Sonstige,2026-01-08,10,Thursday
+5,2026-01-08 12:11:36,3,Sonstige,2026-01-08,12,Thursday
+5,2026-01-09 06:46:42,141,Sonstige,2026-01-09,6,Friday
+5,2026-01-10 06:12:59,2,Sonstige,2026-01-10,6,Saturday
+5,2026-01-10 13:34:54,5,Notstopp (sonstige),2026-01-10,13,Saturday
+5,2026-01-10 13:42:03,1,Sonstige,2026-01-10,13,Saturday
+5,2026-01-11 06:36:25,5,Notstopp (sonstige),2026-01-11,6,Sunday
+5,2026-01-11 06:42:20,1,Sonstige,2026-01-11,6,Sunday
+5,2026-01-11 10:19:01,3,Notstopp (sonstige),2026-01-11,10,Sunday
+5,2026-01-11 13:21:41,7,Notstopp (sonstige),2026-01-11,13,Sunday
+5,2026-01-11 15:24:23,2,Blockung,2026-01-11,15,Sunday
+6,2025-12-08 19:14:49,5,Klammer Timeout,2025-12-08,19,Monday
+6,2025-12-09 05:10:10,0,Sonstige,2025-12-09,5,Tuesday
+6,2025-12-09 20:37:53,3,Notstopp (sonstige),2025-12-09,20,Tuesday
+6,2025-12-09 22:08:35,1,Sonstige,2025-12-09,22,Tuesday
+6,2025-12-10 08:55:23,2,Klammer Timeout,2025-12-10,8,Wednesday
+6,2025-12-10 10:13:03,11,Sonstige,2025-12-10,10,Wednesday
+6,2025-12-10 10:50:59,7,Navigation,2025-12-10,10,Wednesday
+6,2025-12-10 10:57:46,1,Navigation,2025-12-10,10,Wednesday
+6,2025-12-10 12:05:03,5,Notstopp (sonstige),2025-12-10,12,Wednesday
+6,2025-12-10 21:13:00,0,Sonstige,2025-12-10,21,Wednesday
+6,2025-12-11 06:54:41,2,Klammer Timeout,2025-12-11,6,Thursday
+6,2025-12-11 14:13:16,5,Navigation,2025-12-11,14,Thursday
+6,2025-12-11 14:18:47,1,Handbetrieb,2025-12-11,14,Thursday
+6,2025-12-11 20:46:07,0,Sonstige,2025-12-11,20,Thursday
+6,2025-12-12 16:12:45,1,Handbetrieb,2025-12-12,16,Friday
+6,2025-12-13 01:18:03,8,Sonstige,2025-12-13,1,Saturday
+6,2025-12-13 20:03:33,2,Sonstige,2025-12-13,20,Saturday
+6,2025-12-13 20:08:47,1,Klammer Timeout,2025-12-13,20,Saturday
+6,2025-12-13 20:29:35,1,Sonstige,2025-12-13,20,Saturday
+6,2025-12-14 05:37:38,1,Blockung,2025-12-14,5,Sunday
+6,2025-12-14 11:36:55,3,Handbetrieb,2025-12-14,11,Sunday
+6,2025-12-14 11:57:15,3,Handbetrieb,2025-12-14,11,Sunday
+6,2025-12-14 12:23:52,1,Sonstige,2025-12-14,12,Sunday
+6,2025-12-14 21:09:31,3,Notstopp (sonstige),2025-12-14,21,Sunday
+6,2025-12-15 07:06:59,1,Sonstige,2025-12-15,7,Monday
+6,2025-12-15 08:37:01,8,Beladung nicht plausibel,2025-12-15,8,Monday
+6,2025-12-15 21:16:36,5,Klammer Timeout,2025-12-15,21,Monday
+6,2025-12-15 22:08:04,5,Sonstige,2025-12-15,22,Monday
+6,2025-12-16 14:50:14,0,Sonstige,2025-12-16,14,Tuesday
+6,2025-12-16 17:19:51,6,Klammer Timeout,2025-12-16,17,Tuesday
+6,2025-12-17 04:49:34,1,Notstopp (sonstige),2025-12-17,4,Wednesday
+6,2025-12-17 16:27:59,1,Notstopp (sonstige),2025-12-17,16,Wednesday
+6,2025-12-18 11:42:03,22,Sonstige,2025-12-18,11,Thursday
+6,2025-12-18 12:57:03,1,Sonstige,2025-12-18,12,Thursday
+6,2025-12-19 00:07:35,1,Notstopp (sonstige),2025-12-19,0,Friday
+6,2025-12-19 01:32:21,1,Handbetrieb,2025-12-19,1,Friday
+6,2025-12-19 03:55:10,0,Sonstige,2025-12-19,3,Friday
+6,2026-01-08 10:51:45,29,Sonstige,2026-01-08,10,Thursday
+6,2026-01-08 11:24:26,1,Notstopp (sonstige),2026-01-08,11,Thursday
+6,2026-01-08 11:56:12,1,Sonstige,2026-01-08,11,Thursday
+6,2026-01-09 06:18:45,0,Sonstige,2026-01-09,6,Friday
+6,2026-01-09 06:47:39,139,Notstopp (sonstige),2026-01-09,6,Friday
+6,2026-01-09 10:24:56,6,Sonstige,2026-01-09,10,Friday
+6,2026-01-10 06:12:43,1,Sonstige,2026-01-10,6,Saturday
+6,2026-01-11 09:04:18,1,Notstopp (sonstige),2026-01-11,9,Sunday
+6,2026-01-11 11:11:51,2,Sonstige,2026-01-11,11,Sunday
+6,2026-01-11 15:23:02,0,Sicherheitsfeld / SICK,2026-01-11,15,Sunday
+7,2025-12-07 12:37:42,4,Handbetrieb,2025-12-07,12,Sunday
+7,2025-12-07 13:26:26,4,Handbetrieb,2025-12-07,13,Sunday
+7,2025-12-08 11:31:49,0,Sonstige,2025-12-08,11,Monday
+7,2025-12-09 05:09:42,4,Beladung nicht plausibel,2025-12-09,5,Tuesday
+7,2025-12-09 05:40:53,1,Handbetrieb,2025-12-09,5,Tuesday
+7,2025-12-09 11:48:35,0,Sonstige,2025-12-09,11,Tuesday
+7,2025-12-09 16:32:41,1,Handbetrieb,2025-12-09,16,Tuesday
+7,2025-12-10 12:28:04,0,Blockung,2025-12-10,12,Wednesday
+7,2025-12-10 17:08:34,0,Sicherheitsfeld / SICK,2025-12-10,17,Wednesday
+7,2025-12-11 01:48:10,1,Handbetrieb,2025-12-11,1,Thursday
+7,2025-12-11 09:41:58,20,Sicherheitsfeld / SICK,2025-12-11,9,Thursday
+7,2025-12-11 10:01:48,1,Sonstige,2025-12-11,10,Thursday
+7,2025-12-13 11:20:22,1,Sonstige,2025-12-13,11,Saturday
+7,2025-12-13 19:22:15,1,Handbetrieb,2025-12-13,19,Saturday
+7,2025-12-13 20:03:46,1,Handbetrieb,2025-12-13,20,Saturday
+7,2025-12-14 02:17:46,6,Notstopp (sonstige),2025-12-14,2,Sunday
+7,2025-12-14 05:38:49,1,Blockung,2025-12-14,5,Sunday
+7,2025-12-14 12:19:36,1,Handbetrieb,2025-12-14,12,Sunday
+7,2025-12-15 12:13:06,5,Sonstige,2025-12-15,12,Monday
+7,2025-12-15 12:18:39,2,Sonstige,2025-12-15,12,Monday
+7,2025-12-17 01:03:10,4,Sonstige,2025-12-17,1,Wednesday
+7,2025-12-18 12:06:37,1,Sonstige,2025-12-18,12,Thursday
+7,2025-12-18 16:46:00,11,Sonstige,2025-12-18,16,Thursday
+7,2025-12-18 18:44:38,1,Notstopp (sonstige),2025-12-18,18,Thursday
+7,2025-12-20 01:54:27,8,Navigation,2025-12-20,1,Saturday
+7,2025-12-20 02:02:46,3,Sonstige,2025-12-20,2,Saturday
+7,2025-12-20 06:48:31,1,Sonstige,2025-12-20,6,Saturday
+7,2025-12-20 07:13:21,2,Sonstige,2025-12-20,7,Saturday
+7,2025-12-20 10:22:38,16,Handbetrieb,2025-12-20,10,Saturday
+7,2025-12-21 04:58:55,1,Handbetrieb,2025-12-21,4,Sunday
+7,2025-12-21 05:05:48,0,Sonstige,2025-12-21,5,Sunday
+7,2025-12-21 05:13:22,1,Sonstige,2025-12-21,5,Sunday
+7,2025-12-21 05:50:11,4,Sonstige,2025-12-21,5,Sunday
+7,2025-12-21 07:45:24,1,Sonstige,2025-12-21,7,Sunday
+7,2025-12-21 13:29:14,1,Handbetrieb,2025-12-21,13,Sunday
+7,2025-12-21 19:51:23,2,Sonstige,2025-12-21,19,Sunday
+7,2025-12-22 04:58:45,1,Sonstige,2025-12-22,4,Monday
+7,2025-12-22 05:06:39,6,Sonstige,2025-12-22,5,Monday
+7,2025-12-22 05:33:37,3,Handbetrieb,2025-12-22,5,Monday
+7,2025-12-22 08:27:43,0,Sonstige,2025-12-22,8,Monday
+7,2025-12-22 10:25:29,4,Sonstige,2025-12-22,10,Monday
+7,2025-12-22 10:33:41,1,Sonstige,2025-12-22,10,Monday
+7,2025-12-22 12:11:46,1,Sonstige,2025-12-22,12,Monday
+7,2026-01-05 10:59:12,3,Handbetrieb,2026-01-05,10,Monday
+7,2026-01-08 10:12:07,1,Sonstige,2026-01-08,10,Thursday
+7,2026-01-09 06:20:37,1,Sonstige,2026-01-09,6,Friday
+7,2026-01-09 09:04:22,1,Sonstige,2026-01-09,9,Friday
+7,2026-01-09 10:08:22,1,Notstopp (sonstige),2026-01-09,10,Friday
+7,2026-01-09 15:25:47,889,Blockung,2026-01-09,15,Friday
+7,2026-01-10 08:13:07,13,Sonstige,2026-01-10,8,Saturday
+7,2026-01-10 08:29:05,10,Sonstige,2026-01-10,8,Saturday
+7,2026-01-10 12:43:59,9,Notstopp (sonstige),2026-01-10,12,Saturday
+7,2026-01-10 12:53:37,2,Sonstige,2026-01-10,12,Saturday
+7,2026-01-11 16:54:59,2,Handbetrieb,2026-01-11,16,Sunday
+8,2025-12-08 06:23:50,4,Sonstige,2025-12-08,6,Monday
+8,2025-12-08 15:16:13,3,Klammer Timeout,2025-12-08,15,Monday
+8,2025-12-08 15:47:43,1,Notstopp (sonstige),2025-12-08,15,Monday
+8,2025-12-08 21:57:59,11,Navigation,2025-12-08,21,Monday
+8,2025-12-08 22:08:22,1,Handbetrieb,2025-12-08,22,Monday
+8,2025-12-08 23:49:16,11,Navigation,2025-12-08,23,Monday
+8,2025-12-09 03:00:38,1,Blockung,2025-12-09,3,Tuesday
+8,2025-12-09 11:55:11,3,Sonstige,2025-12-09,11,Tuesday
+8,2025-12-09 17:04:08,1,Notstopp (sonstige),2025-12-09,17,Tuesday
+8,2025-12-09 21:40:00,0,Sonstige,2025-12-09,21,Tuesday
+8,2025-12-10 00:29:43,3,Navigation,2025-12-10,0,Wednesday
+8,2025-12-11 00:33:03,5,Navigation,2025-12-11,0,Thursday
+8,2025-12-11 09:23:40,242,Handbetrieb,2025-12-11,9,Thursday
+8,2025-12-12 02:06:53,7,Blockung,2025-12-12,2,Friday
+8,2025-12-12 23:52:55,2,Sonstige,2025-12-12,23,Friday
+8,2025-12-13 04:37:13,14,Navigation,2025-12-13,4,Saturday
+8,2025-12-13 22:48:12,5,Navigation,2025-12-13,22,Saturday
+8,2025-12-14 03:59:15,0,Handbetrieb,2025-12-14,3,Sunday
+8,2025-12-14 06:13:58,2,Sonstige,2025-12-14,6,Sunday
+8,2025-12-14 07:21:35,4,Navigation,2025-12-14,7,Sunday
+8,2025-12-14 07:38:53,2,Navigation,2025-12-14,7,Sunday
+8,2025-12-14 07:53:07,6,Sonstige,2025-12-14,7,Sunday
+8,2025-12-14 08:00:11,24,Navigation,2025-12-14,8,Sunday
+8,2025-12-14 08:27:25,1,Notstopp (sonstige),2025-12-14,8,Sunday
+8,2025-12-15 17:36:12,1,Klammer Timeout,2025-12-15,17,Monday
+8,2025-12-16 16:13:08,0,Sonstige,2025-12-16,16,Tuesday
+8,2025-12-16 20:08:13,5,Notstopp (sonstige),2025-12-16,20,Tuesday
+8,2025-12-17 08:44:05,0,Sonstige,2025-12-17,8,Wednesday
+8,2025-12-17 10:25:19,9,Navigation,2025-12-17,10,Wednesday
+8,2025-12-17 13:34:47,3,Notstopp (sonstige),2025-12-17,13,Wednesday
+8,2025-12-17 18:47:15,0,Klammer Timeout,2025-12-17,18,Wednesday
+8,2025-12-17 20:56:17,2,Klammer Timeout,2025-12-17,20,Wednesday
+8,2026-01-09 12:49:08,7,Sonstige,2026-01-09,12,Friday
+8,2026-01-09 13:58:58,24,Notstopp (sonstige),2026-01-09,13,Friday
+8,2026-01-09 15:15:26,897,Sonstige,2026-01-09,15,Friday
+8,2026-01-11 06:57:44,17,Navigation,2026-01-11,6,Sunday
+8,2026-01-11 11:21:29,6,Navigation,2026-01-11,11,Sunday
+8,2026-01-11 11:27:53,3,Navigation,2026-01-11,11,Sunday
+8,2026-01-11 11:33:26,4,Sonstige,2026-01-11,11,Sunday
+8,2026-01-11 13:54:37,22,Sonstige,2026-01-11,13,Sunday
+8,2026-01-11 14:29:02,10,Sonstige,2026-01-11,14,Sunday
+8,2026-01-12 10:12:31,4,Klammer Timeout,2026-01-12,10,Monday
+8,2026-01-12 12:57:19,2,Notstopp (sonstige),2026-01-12,12,Monday
+9,2025-12-07 01:18:39,1,Handbetrieb,2025-12-07,1,Sunday
+9,2025-12-07 21:09:49,2,Handbetrieb,2025-12-07,21,Sunday
+9,2025-12-08 13:40:32,7,Beladung nicht plausibel,2025-12-08,13,Monday
+9,2025-12-08 15:35:39,1,Handbetrieb,2025-12-08,15,Monday
+9,2025-12-08 17:45:15,6,Beladung nicht plausibel,2025-12-08,17,Monday
+9,2025-12-08 17:51:36,1,Notstopp (sonstige),2025-12-08,17,Monday
+9,2025-12-09 17:34:36,1,Handbetrieb,2025-12-09,17,Tuesday
+9,2025-12-09 23:54:20,0,Sonstige,2025-12-09,23,Tuesday
+9,2025-12-10 10:12:18,4,Handbetrieb,2025-12-10,10,Wednesday
+9,2025-12-10 20:35:57,4,Notstopp (sonstige),2025-12-10,20,Wednesday
+9,2025-12-11 01:00:10,0,Handbetrieb,2025-12-11,1,Thursday
+9,2025-12-11 01:15:21,1,Sonstige,2025-12-11,1,Thursday
+9,2025-12-11 06:50:27,1,Sonstige,2025-12-11,6,Thursday
+9,2025-12-11 14:34:25,34,Handbetrieb,2025-12-11,14,Thursday
+9,2025-12-12 02:37:24,1,Beladung nicht plausibel,2025-12-12,2,Friday
+9,2025-12-12 05:50:12,2,Notstopp (sonstige),2025-12-12,5,Friday
+9,2025-12-12 15:05:37,9,Beladung nicht plausibel,2025-12-12,15,Friday
+9,2025-12-12 15:14:19,3,Beladung nicht plausibel,2025-12-12,15,Friday
+9,2025-12-12 15:41:28,9,Beladung nicht plausibel,2025-12-12,15,Friday
+9,2025-12-14 00:16:05,6,Notstopp (sonstige),2025-12-14,0,Sunday
+9,2025-12-14 04:55:03,6,Sonstige,2025-12-14,4,Sunday
+9,2025-12-14 06:41:19,0,Handbetrieb,2025-12-14,6,Sunday
+9,2025-12-14 12:43:32,8,Handbetrieb,2025-12-14,12,Sunday
+9,2025-12-14 12:52:44,4,Sonstige,2025-12-14,12,Sunday
+9,2025-12-15 01:18:29,1,Notstopp (sonstige),2025-12-15,1,Monday
+9,2025-12-15 07:00:38,7,Handbetrieb,2025-12-15,7,Monday
+9,2025-12-17 12:41:03,2,Sonstige,2025-12-17,12,Wednesday
+9,2025-12-17 13:11:16,3,Sonstige,2025-12-17,13,Wednesday
+9,2025-12-18 11:04:36,7,Notstopp (sonstige),2025-12-18,11,Thursday
+9,2025-12-18 13:33:12,3,Notstopp (sonstige),2025-12-18,13,Thursday
+9,2025-12-18 22:18:24,1,Sonstige,2025-12-18,22,Thursday
+9,2025-12-19 00:28:17,0,Sonstige,2025-12-19,0,Friday
+9,2025-12-19 04:52:13,3,Notstopp (sonstige),2025-12-19,4,Friday
+9,2025-12-19 06:50:53,1,Handbetrieb,2025-12-19,6,Friday
+9,2025-12-19 09:25:05,0,Sonstige,2025-12-19,9,Friday
+9,2025-12-19 11:17:19,23,Sonstige,2025-12-19,11,Friday
+9,2025-12-19 11:41:57,1,Sonstige,2025-12-19,11,Friday
+9,2025-12-19 11:47:57,51,Sonstige,2025-12-19,11,Friday
+9,2025-12-19 16:13:40,8,Handbetrieb,2025-12-19,16,Friday
+9,2025-12-19 16:21:47,1,Handbetrieb,2025-12-19,16,Friday
+9,2025-12-19 16:59:42,2,Sonstige,2025-12-19,16,Friday
+9,2025-12-19 23:00:06,1,Beladung nicht plausibel,2025-12-19,23,Friday
+9,2025-12-20 04:50:14,0,Sonstige,2025-12-20,4,Saturday
+9,2025-12-20 05:21:01,11,Notstopp (sonstige),2025-12-20,5,Saturday
+9,2025-12-20 21:09:39,0,Sonstige,2025-12-20,21,Saturday
+9,2025-12-20 22:34:44,1,Handbetrieb,2025-12-20,22,Saturday
+9,2025-12-20 23:37:08,6,Sonstige,2025-12-20,23,Saturday
+9,2025-12-22 08:34:10,0,Sonstige,2025-12-22,8,Monday
+9,2025-12-22 08:43:35,3,Sonstige,2025-12-22,8,Monday
+9,2026-01-09 10:50:02,1,Sonstige,2026-01-09,10,Friday
+9,2026-01-11 06:37:16,2,Sonstige,2026-01-11,6,Sunday
+9,2026-01-11 08:06:53,2,Sonstige,2026-01-11,8,Sunday
+9,2026-01-12 00:58:48,1,Handbetrieb,2026-01-12,0,Monday
+9,2026-01-12 01:23:12,2,Sonstige,2026-01-12,1,Monday
+9,2026-01-12 01:36:21,0,Sonstige,2026-01-12,1,Monday
+9,2026-01-12 02:05:54,1,Beladung nicht plausibel,2026-01-12,2,Monday
+10,2025-12-08 02:25:49,0,Sonstige,2025-12-08,2,Monday
+10,2025-12-09 03:05:55,1,Handbetrieb,2025-12-09,3,Tuesday
+10,2025-12-09 14:52:26,1,Beladung nicht plausibel,2025-12-09,14,Tuesday
+10,2025-12-09 15:00:52,1,Sonstige,2025-12-09,15,Tuesday
+10,2025-12-09 20:46:35,6,Beladung nicht plausibel,2025-12-09,20,Tuesday
+10,2025-12-12 02:19:29,0,Klammer Timeout,2025-12-12,2,Friday
+10,2025-12-12 05:07:17,1,Handbetrieb,2025-12-12,5,Friday
+10,2025-12-12 18:39:56,2,Handbetrieb,2025-12-12,18,Friday
+10,2025-12-12 22:15:12,2,Sonstige,2025-12-12,22,Friday
+10,2025-12-13 19:34:12,8,Sonstige,2025-12-13,19,Saturday
+10,2025-12-13 20:55:58,851,Handbetrieb,2025-12-13,20,Saturday
+10,2025-12-14 11:53:20,0,Handbetrieb,2025-12-14,11,Sunday
+10,2025-12-15 06:44:30,6,Notstopp (sonstige),2025-12-15,6,Monday
+10,2025-12-16 05:42:09,0,Sonstige,2025-12-16,5,Tuesday
+10,2025-12-16 16:00:58,1,Handbetrieb,2025-12-16,16,Tuesday
+10,2025-12-17 00:11:59,6,Handbetrieb,2025-12-17,0,Wednesday
+10,2025-12-17 00:19:32,1,Notstopp (sonstige),2025-12-17,0,Wednesday
+10,2025-12-17 13:24:07,10,Beladung nicht plausibel,2025-12-17,13,Wednesday
+10,2025-12-17 13:34:37,4,Sicherheitsfeld / SICK,2025-12-17,13,Wednesday
+10,2025-12-17 19:56:37,2,Sonstige,2025-12-17,19,Wednesday
+10,2025-12-18 05:33:25,2,Sicherheitsfeld / SICK,2025-12-18,5,Thursday
+10,2025-12-18 07:00:15,3,Notstopp (sonstige),2025-12-18,7,Thursday
+10,2025-12-18 12:07:45,9,Sonstige,2025-12-18,12,Thursday
+10,2025-12-18 13:06:57,2,Sonstige,2025-12-18,13,Thursday
+10,2025-12-18 20:53:10,2,Notstopp (sonstige),2025-12-18,20,Thursday
+10,2025-12-19 03:07:49,3,Notstopp (sonstige),2025-12-19,3,Friday
+10,2025-12-19 07:39:58,3,Klammer Timeout,2025-12-19,7,Friday
+10,2025-12-19 08:26:57,1,Sonstige,2025-12-19,8,Friday
+10,2025-12-19 08:48:47,3,Notstopp (sonstige),2025-12-19,8,Friday
+10,2025-12-19 10:00:29,2,Handbetrieb,2025-12-19,10,Friday
+10,2025-12-19 10:19:09,4,Handbetrieb,2025-12-19,10,Friday
+10,2025-12-19 10:24:32,0,Sonstige,2025-12-19,10,Friday
+10,2025-12-19 14:30:36,2,Notstopp (sonstige),2025-12-19,14,Friday
+10,2025-12-19 16:01:21,0,Handbetrieb,2025-12-19,16,Friday
+10,2025-12-19 19:51:47,1,Notstopp (sonstige),2025-12-19,19,Friday
+10,2025-12-19 23:19:35,1,Handbetrieb,2025-12-19,23,Friday
+10,2025-12-20 03:02:21,1,Sonstige,2025-12-20,3,Saturday
+10,2025-12-20 07:10:29,6,Sonstige,2025-12-20,7,Saturday
+10,2025-12-20 09:40:38,22,Sonstige,2025-12-20,9,Saturday
+10,2025-12-20 10:03:46,1,Sonstige,2025-12-20,10,Saturday
+10,2025-12-20 10:46:50,9,Sonstige,2025-12-20,10,Saturday
+10,2025-12-20 21:10:41,5,Sonstige,2025-12-20,21,Saturday
+10,2025-12-21 04:44:20,0,Sonstige,2025-12-21,4,Sunday
+10,2025-12-21 05:11:51,1,Handbetrieb,2025-12-21,5,Sunday
+10,2025-12-21 07:49:58,4,Sonstige,2025-12-21,7,Sunday
+10,2025-12-21 10:19:27,1,Notstopp (sonstige),2025-12-21,10,Sunday
+10,2025-12-21 12:52:21,3,Sonstige,2025-12-21,12,Sunday
+10,2025-12-21 13:09:34,1,Sonstige,2025-12-21,13,Sunday
+10,2025-12-21 13:15:44,2,Handbetrieb,2025-12-21,13,Sunday
+10,2025-12-21 16:48:35,1,Sonstige,2025-12-21,16,Sunday
+10,2025-12-21 16:56:23,1,Handbetrieb,2025-12-21,16,Sunday
+10,2025-12-21 19:49:59,2,Blockung,2025-12-21,19,Sunday
+10,2025-12-21 22:21:25,0,Handbetrieb,2025-12-21,22,Sunday
+10,2025-12-21 23:58:12,1,Handbetrieb,2025-12-21,23,Sunday
+10,2025-12-22 01:15:55,1,Handbetrieb,2025-12-22,1,Monday
+10,2025-12-22 01:45:23,1,Handbetrieb,2025-12-22,1,Monday
+10,2025-12-22 01:51:42,1,Handbetrieb,2025-12-22,1,Monday
+10,2025-12-22 02:48:24,1,Handbetrieb,2025-12-22,2,Monday
+10,2025-12-22 08:09:24,1,Sonstige,2025-12-22,8,Monday
+10,2025-12-22 10:28:36,1,Sonstige,2025-12-22,10,Monday
+10,2025-12-22 12:18:21,26,Handbetrieb,2025-12-22,12,Monday
+10,2026-01-08 09:52:40,1,Sonstige,2026-01-08,9,Thursday
+10,2026-01-09 12:01:00,3,Handbetrieb,2026-01-09,12,Friday
+10,2026-01-09 15:15:18,900,Sonstige,2026-01-09,15,Friday
+10,2026-01-10 09:17:09,0,Sonstige,2026-01-10,9,Saturday
+10,2026-01-10 12:47:05,3,Handbetrieb,2026-01-10,12,Saturday
+10,2026-01-11 12:20:17,10,Handbetrieb,2026-01-11,12,Sunday
+10,2026-01-11 13:26:26,1,Notstopp (sonstige),2026-01-11,13,Sunday
+10,2026-01-11 14:33:31,9,Notstopp (sonstige),2026-01-11,14,Sunday
+10,2026-01-11 14:42:19,0,Sonstige,2026-01-11,14,Sunday
+10,2026-01-11 20:06:57,9,Notstopp (sonstige),2026-01-11,20,Sunday
+10,2026-01-12 12:53:31,7,Klammer Timeout,2026-01-12,12,Monday
+11,2025-12-07 03:01:12,1,Sonstige,2025-12-07,3,Sunday
+11,2025-12-08 08:49:37,3,Klammer Timeout,2025-12-08,8,Monday
+11,2025-12-08 18:43:29,4,Notstopp (sonstige),2025-12-08,18,Monday
+11,2025-12-09 07:58:22,1,Sonstige,2025-12-09,7,Tuesday
+11,2025-12-09 14:27:47,0,Sonstige,2025-12-09,14,Tuesday
+11,2025-12-09 22:58:10,0,Sonstige,2025-12-09,22,Tuesday
+11,2025-12-10 15:46:50,9,Sonstige,2025-12-10,15,Wednesday
+11,2025-12-10 15:56:24,0,Notstopp (sonstige),2025-12-10,15,Wednesday
+11,2025-12-10 23:58:58,3,Notstopp (sonstige),2025-12-10,23,Wednesday
+11,2025-12-11 05:13:11,6,Handbetrieb,2025-12-11,5,Thursday
+11,2025-12-11 15:25:25,3,Notstopp (sonstige),2025-12-11,15,Thursday
+11,2025-12-11 21:42:57,10,Notstopp (sonstige),2025-12-11,21,Thursday
+11,2025-12-11 22:52:23,3,Klammer Timeout,2025-12-11,22,Thursday
+11,2025-12-12 02:32:33,4,Notstopp (sonstige),2025-12-12,2,Friday
+11,2025-12-12 03:03:10,0,Sonstige,2025-12-12,3,Friday
+11,2025-12-12 07:39:44,4,Sonstige,2025-12-12,7,Friday
+11,2025-12-12 14:31:51,4,Klammer Timeout,2025-12-12,14,Friday
+11,2025-12-12 19:34:30,1,Notstopp (sonstige),2025-12-12,19,Friday
+11,2025-12-13 00:55:43,3,Sonstige,2025-12-13,0,Saturday
+11,2025-12-13 08:00:26,9,Blockung,2025-12-13,8,Saturday
+11,2025-12-13 08:25:15,54,Sonstige,2025-12-13,8,Saturday
+11,2025-12-13 09:21:34,1,Sonstige,2025-12-13,9,Saturday
+11,2025-12-13 19:58:52,1,Handbetrieb,2025-12-13,19,Saturday
+11,2025-12-14 01:59:01,7,Sonstige,2025-12-14,1,Sunday
+11,2025-12-14 04:34:57,1,Notstopp (sonstige),2025-12-14,4,Sunday
+11,2025-12-14 10:25:32,8,Sonstige,2025-12-14,10,Sunday
+11,2025-12-14 10:41:30,6,Sonstige,2025-12-14,10,Sunday
+11,2025-12-14 21:09:23,3,Sonstige,2025-12-14,21,Sunday
+11,2025-12-15 21:22:18,1,Sonstige,2025-12-15,21,Monday
+11,2025-12-15 22:38:15,4,Beladung nicht plausibel,2025-12-15,22,Monday
+11,2025-12-16 11:32:08,2,Sonstige,2025-12-16,11,Tuesday
+11,2025-12-16 14:49:12,4,Blockung,2025-12-16,14,Tuesday
+11,2025-12-16 22:37:16,1,Beladung nicht plausibel,2025-12-16,22,Tuesday
+11,2025-12-18 11:50:26,14,Notstopp (sonstige),2025-12-18,11,Thursday
+11,2025-12-18 14:04:55,10,Klammer Timeout,2025-12-18,14,Thursday
+11,2025-12-18 15:54:19,18,Sonstige,2025-12-18,15,Thursday
+11,2025-12-18 16:17:43,5,Sonstige,2025-12-18,16,Thursday
+11,2025-12-19 00:09:49,1,Handbetrieb,2025-12-19,0,Friday
+11,2025-12-19 00:36:25,0,Sicherheitsfeld / SICK,2025-12-19,0,Friday
+11,2025-12-19 06:27:01,10,Sonstige,2025-12-19,6,Friday
+11,2025-12-19 06:38:22,17,Notstopp (sonstige),2025-12-19,6,Friday
+11,2025-12-19 21:34:36,1,Sonstige,2025-12-19,21,Friday
+11,2025-12-20 00:10:23,0,Handbetrieb,2025-12-20,0,Saturday
+11,2025-12-20 01:51:47,6,Notstopp (sonstige),2025-12-20,1,Saturday
+11,2025-12-20 05:18:41,2,Sonstige,2025-12-20,5,Saturday
+11,2025-12-20 06:22:20,26,Sonstige,2025-12-20,6,Saturday
+11,2025-12-20 09:31:36,4,Sonstige,2025-12-20,9,Saturday
+11,2025-12-20 10:24:11,0,Handbetrieb,2025-12-20,10,Saturday
+11,2025-12-20 10:43:12,1,Sonstige,2025-12-20,10,Saturday
+11,2025-12-20 14:29:16,2,Sonstige,2025-12-20,14,Saturday
+11,2025-12-20 14:44:26,3,Sonstige,2025-12-20,14,Saturday
+11,2025-12-21 05:02:55,0,Sonstige,2025-12-21,5,Sunday
+11,2025-12-21 05:08:57,1,Handbetrieb,2025-12-21,5,Sunday
+11,2025-12-21 13:44:34,5,Sonstige,2025-12-21,13,Sunday
+11,2026-01-08 13:37:13,34,Notstopp (sonstige),2026-01-08,13,Thursday
+11,2026-01-08 14:15:08,38,Sonstige,2026-01-08,14,Thursday
+11,2026-01-10 06:12:51,1,Sonstige,2026-01-10,6,Saturday
+11,2026-01-10 23:34:07,28,Notstopp (sonstige),2026-01-10,23,Saturday
+11,2026-01-12 08:30:03,2,Sonstige,2026-01-12,8,Monday
+11,2026-01-12 13:03:32,5,Notstopp (sonstige),2026-01-12,13,Monday
+12,2025-12-07 19:03:58,12,Blockung,2025-12-07,19,Sunday
+12,2025-12-08 05:24:55,5,Klammer Timeout,2025-12-08,5,Monday
+12,2025-12-08 11:41:44,1,Notstopp (sonstige),2025-12-08,11,Monday
+12,2025-12-08 21:12:53,4,Sonstige,2025-12-08,21,Monday
+12,2025-12-08 23:57:27,1,Notstopp (sonstige),2025-12-08,23,Monday
+12,2025-12-09 01:16:32,1,Klammer Timeout,2025-12-09,1,Tuesday
+12,2025-12-09 03:46:25,3,Notstopp (sonstige),2025-12-09,3,Tuesday
+12,2025-12-09 04:45:40,8,Klammer Timeout,2025-12-09,4,Tuesday
+12,2025-12-09 13:26:54,5,Klammer Timeout,2025-12-09,13,Tuesday
+12,2025-12-09 22:29:57,3,Klammer Timeout,2025-12-09,22,Tuesday
+12,2025-12-10 05:03:29,7,Notstopp (sonstige),2025-12-10,5,Wednesday
+12,2025-12-10 06:49:33,2,Notstopp (sonstige),2025-12-10,6,Wednesday
+12,2025-12-10 09:57:55,4,Klammer Timeout,2025-12-10,9,Wednesday
+12,2025-12-10 20:54:53,2,Notstopp (sonstige),2025-12-10,20,Wednesday
+12,2025-12-11 12:42:46,1,Sonstige,2025-12-11,12,Thursday
+12,2025-12-12 09:52:57,4,Klammer Timeout,2025-12-12,9,Friday
+12,2025-12-12 21:25:11,2,Sonstige,2025-12-12,21,Friday
+12,2025-12-13 01:18:18,25,Notstopp (sonstige),2025-12-13,1,Saturday
+12,2025-12-13 01:44:29,3,Sonstige,2025-12-13,1,Saturday
+12,2025-12-13 02:06:33,8,Klammer Timeout,2025-12-13,2,Saturday
+12,2025-12-13 20:14:36,1,Sonstige,2025-12-13,20,Saturday
+12,2025-12-14 06:11:35,2,Handbetrieb,2025-12-14,6,Sunday
+12,2025-12-14 06:16:42,1,Notstopp (sonstige),2025-12-14,6,Sunday
+12,2025-12-14 07:34:26,2,Sonstige,2025-12-14,7,Sunday
+12,2025-12-14 14:19:30,3,Sonstige,2025-12-14,14,Sunday
+12,2025-12-14 17:01:59,8,Sonstige,2025-12-14,17,Sunday
+12,2025-12-15 13:50:56,4,Notstopp (sonstige),2025-12-15,13,Monday
+12,2025-12-15 20:53:27,5,Klammer Timeout,2025-12-15,20,Monday
+12,2025-12-15 22:22:28,6,Beladung nicht plausibel,2025-12-15,22,Monday
+12,2025-12-16 06:36:47,3,Klammer Timeout,2025-12-16,6,Tuesday
+12,2025-12-16 09:32:56,5,Notstopp (sonstige),2025-12-16,9,Tuesday
+12,2025-12-16 13:00:21,3,Klammer Timeout,2025-12-16,13,Tuesday
+12,2025-12-16 15:50:50,1,Blockung,2025-12-16,15,Tuesday
+12,2025-12-16 15:57:50,1,Handbetrieb,2025-12-16,15,Tuesday
+12,2025-12-16 19:43:17,18,Beladung nicht plausibel,2025-12-16,19,Tuesday
+12,2025-12-17 01:04:35,10,Klammer Timeout,2025-12-17,1,Wednesday
+12,2025-12-17 05:17:00,1,Notstopp (sonstige),2025-12-17,5,Wednesday
+12,2025-12-17 05:57:26,1,Klammer Timeout,2025-12-17,5,Wednesday
+12,2025-12-17 06:37:25,6,Sonstige,2025-12-17,6,Wednesday
+12,2025-12-17 11:48:02,1,Sonstige,2025-12-17,11,Wednesday
+12,2025-12-17 13:40:08,1,Notstopp (sonstige),2025-12-17,13,Wednesday
+12,2025-12-17 20:12:43,11,Notstopp (sonstige),2025-12-17,20,Wednesday
+12,2025-12-17 22:00:26,13,Sonstige,2025-12-17,22,Wednesday
+12,2025-12-18 00:48:27,6,Sonstige,2025-12-18,0,Thursday
+12,2025-12-18 00:54:34,0,Sonstige,2025-12-18,0,Thursday
+12,2025-12-18 19:08:52,9,Notstopp (sonstige),2025-12-18,19,Thursday
+12,2025-12-18 19:20:49,0,Sonstige,2025-12-18,19,Thursday
+12,2025-12-19 00:18:40,2,Notstopp (sonstige),2025-12-19,0,Friday
+12,2025-12-19 01:06:27,8,Sonstige,2025-12-19,1,Friday
+12,2025-12-19 02:17:10,1,Notstopp (sonstige),2025-12-19,2,Friday
+12,2025-12-19 03:23:03,2,Sonstige,2025-12-19,3,Friday
+12,2025-12-20 04:13:43,9,Notstopp (sonstige),2025-12-20,4,Saturday
+12,2025-12-20 06:16:59,2,Sonstige,2025-12-20,6,Saturday
+12,2025-12-20 07:26:25,1,Blockung,2025-12-20,7,Saturday
+12,2025-12-20 07:42:51,0,Handbetrieb,2025-12-20,7,Saturday
+12,2025-12-20 10:03:06,3,Sonstige,2025-12-20,10,Saturday
+12,2025-12-20 10:11:40,1,Sonstige,2025-12-20,10,Saturday
+12,2025-12-20 10:25:13,1,Handbetrieb,2025-12-20,10,Saturday
+12,2025-12-20 10:45:38,1,Handbetrieb,2025-12-20,10,Saturday
+12,2025-12-20 10:58:30,1,Sonstige,2025-12-20,10,Saturday
+12,2025-12-20 16:08:54,1,Sonstige,2025-12-20,16,Saturday
+12,2025-12-20 17:46:04,10,Notstopp (sonstige),2025-12-20,17,Saturday
+12,2025-12-21 04:47:21,0,Handbetrieb,2025-12-21,4,Sunday
+12,2025-12-21 09:42:26,4,Sonstige,2025-12-21,9,Sunday
+12,2025-12-21 12:27:27,1,Handbetrieb,2025-12-21,12,Sunday
+12,2025-12-21 12:46:03,1,Sicherheitsfeld / SICK,2025-12-21,12,Sunday
+12,2025-12-21 13:42:44,1,Handbetrieb,2025-12-21,13,Sunday
+12,2025-12-21 14:15:14,1,Handbetrieb,2025-12-21,14,Sunday
+12,2025-12-21 14:38:20,2,Handbetrieb,2025-12-21,14,Sunday
+12,2025-12-21 14:53:40,0,Sonstige,2025-12-21,14,Sunday
+12,2025-12-21 15:14:21,4,Notstopp (sonstige),2025-12-21,15,Sunday
+12,2025-12-21 17:54:36,1,Handbetrieb,2025-12-21,17,Sunday
+12,2025-12-21 17:59:39,2,Klammer Timeout,2025-12-21,17,Sunday
+12,2025-12-21 19:38:52,1,Sonstige,2025-12-21,19,Sunday
+12,2025-12-21 20:09:49,1,Handbetrieb,2025-12-21,20,Sunday
+12,2025-12-21 22:34:07,0,Handbetrieb,2025-12-21,22,Sunday
+12,2025-12-22 05:03:26,2,Sonstige,2025-12-22,5,Monday
+12,2025-12-22 05:11:51,1,Sonstige,2025-12-22,5,Monday
+12,2025-12-22 08:09:31,7,Sonstige,2025-12-22,8,Monday
+12,2026-01-08 11:45:56,2,Sonstige,2026-01-08,11,Thursday
+12,2026-01-08 12:14:40,1,Sonstige,2026-01-08,12,Thursday
+12,2026-01-08 14:19:51,2,Klammer Timeout,2026-01-08,14,Thursday
+12,2026-01-08 16:11:00,847,Sonstige,2026-01-08,16,Thursday
+12,2026-01-09 06:47:18,139,Sonstige,2026-01-09,6,Friday
+12,2026-01-09 09:14:49,10,Klammer Timeout,2026-01-09,9,Friday
+12,2026-01-10 11:24:41,2,Sonstige,2026-01-10,11,Saturday
+12,2026-01-10 22:52:40,3,Klammer Timeout,2026-01-10,22,Saturday
+12,2026-01-11 07:31:33,32,Notstopp (sonstige),2026-01-11,7,Sunday
+12,2026-01-11 12:18:31,1,Sonstige,2026-01-11,12,Sunday
+12,2026-01-11 18:03:33,11,Notstopp (sonstige),2026-01-11,18,Sunday
+12,2026-01-11 18:14:53,2,Sonstige,2026-01-11,18,Sunday
+12,2026-01-11 18:23:14,3,Sonstige,2026-01-11,18,Sunday
+12,2026-01-12 16:24:56,2,Klammer Timeout,2026-01-12,16,Monday
+12,2026-01-12 17:21:19,3,Sonstige,2026-01-12,17,Monday
+13,2025-12-09 02:18:09,0,Sonstige,2025-12-09,2,Tuesday
+13,2025-12-09 04:47:59,7,Klammer Timeout,2025-12-09,4,Tuesday
+13,2025-12-09 21:36:17,0,Sonstige,2025-12-09,21,Tuesday
+13,2025-12-10 19:45:19,3,Klammer Timeout,2025-12-10,19,Wednesday
+13,2025-12-11 16:28:46,8,Sonstige,2025-12-11,16,Thursday
+13,2025-12-11 19:50:04,4,Beladung nicht plausibel,2025-12-11,19,Thursday
+13,2025-12-11 20:03:22,5,Notstopp (sonstige),2025-12-11,20,Thursday
+13,2025-12-12 05:29:05,1,Sicherheitsfeld / SICK,2025-12-12,5,Friday
+13,2025-12-13 00:15:06,2,Sonstige,2025-12-13,0,Saturday
+13,2025-12-13 01:36:56,34,Beladung nicht plausibel,2025-12-13,1,Saturday
+13,2025-12-13 19:23:51,1,Blockung,2025-12-13,19,Saturday
+13,2025-12-13 19:31:32,1,Blockung,2025-12-13,19,Saturday
+13,2025-12-13 19:41:44,5,Handbetrieb,2025-12-13,19,Saturday
+13,2025-12-14 00:50:37,6,Sonstige,2025-12-14,0,Sunday
+13,2025-12-14 08:39:51,3,Klammer Timeout,2025-12-14,8,Sunday
+13,2025-12-14 12:08:53,2,Handbetrieb,2025-12-14,12,Sunday
+13,2025-12-14 12:56:34,3,Sonstige,2025-12-14,12,Sunday
+13,2025-12-17 09:35:48,0,Sonstige,2025-12-17,9,Wednesday
+13,2025-12-18 03:49:21,2,Sonstige,2025-12-18,3,Thursday
+13,2025-12-18 05:07:29,1,Sonstige,2025-12-18,5,Thursday
+13,2025-12-18 05:35:25,1,Handbetrieb,2025-12-18,5,Thursday
+13,2025-12-18 08:37:34,1,Sonstige,2025-12-18,8,Thursday
+13,2025-12-18 12:44:33,13,Sonstige,2025-12-18,12,Thursday
+13,2025-12-18 14:55:51,2,Notstopp (sonstige),2025-12-18,14,Thursday
+13,2025-12-18 16:18:25,1,Sonstige,2025-12-18,16,Thursday
+13,2025-12-18 16:33:16,4,Handbetrieb,2025-12-18,16,Thursday
+13,2025-12-19 06:24:09,11,Sonstige,2025-12-19,6,Friday
+13,2025-12-19 06:37:39,17,Sonstige,2025-12-19,6,Friday
+13,2025-12-19 07:08:16,3,Handbetrieb,2025-12-19,7,Friday
+13,2025-12-19 22:37:28,6,Notstopp (sonstige),2025-12-19,22,Friday
+13,2025-12-19 22:46:55,4,Sonstige,2025-12-19,22,Friday
+13,2025-12-20 06:22:41,3,Handbetrieb,2025-12-20,6,Saturday
+13,2025-12-20 10:15:05,0,Sonstige,2025-12-20,10,Saturday
+13,2025-12-20 10:26:37,1,Handbetrieb,2025-12-20,10,Saturday
+13,2025-12-20 10:41:12,2,Notstopp (sonstige),2025-12-20,10,Saturday
+13,2025-12-20 10:49:52,0,Sonstige,2025-12-20,10,Saturday
+13,2025-12-20 14:52:43,38,Sonstige,2025-12-20,14,Saturday
+13,2025-12-20 19:39:24,3,Notstopp (sonstige),2025-12-20,19,Saturday
+13,2025-12-20 22:13:56,4,Sonstige,2025-12-20,22,Saturday
+13,2025-12-21 04:57:47,1,Sonstige,2025-12-21,4,Sunday
+13,2025-12-21 05:08:36,2,Sonstige,2025-12-21,5,Sunday
+13,2025-12-21 05:14:03,1,Notstopp (sonstige),2025-12-21,5,Sunday
+13,2025-12-21 09:43:44,2,Sonstige,2025-12-21,9,Sunday
+13,2025-12-21 13:10:34,7,Sonstige,2025-12-21,13,Sunday
+13,2025-12-21 13:27:00,0,Sonstige,2025-12-21,13,Sunday
+13,2025-12-21 15:44:05,10,Handbetrieb,2025-12-21,15,Sunday
+13,2026-01-08 11:52:52,1,Sonstige,2026-01-08,11,Thursday
+13,2026-01-08 12:02:16,9,Sicherheitsfeld / SICK,2026-01-08,12,Thursday
+13,2026-01-09 06:18:38,0,Sonstige,2026-01-09,6,Friday
+13,2026-01-09 06:51:11,131,Sonstige,2026-01-09,6,Friday
+13,2026-01-10 06:12:18,0,Sonstige,2026-01-10,6,Saturday
+13,2026-01-10 06:19:50,1,Sonstige,2026-01-10,6,Saturday
+13,2026-01-10 21:04:41,0,Sonstige,2026-01-10,21,Saturday
+13,2026-01-10 21:21:21,8,Sonstige,2026-01-10,21,Saturday
+13,2026-01-11 11:11:59,9,Sonstige,2026-01-11,11,Sunday
+13,2026-01-11 11:22:08,0,Notstopp (sonstige),2026-01-11,11,Sunday
+13,2026-01-11 17:08:58,5,Sonstige,2026-01-11,17,Sunday
+13,2026-01-11 17:47:43,2,Blockung,2026-01-11,17,Sunday
+13,2026-01-12 06:46:24,21,Handbetrieb,2026-01-12,6,Monday
+14,2025-12-08 14:19:21,0,Notstopp (sonstige),2025-12-08,14,Monday
+14,2025-12-08 14:56:46,1,Notstopp (sonstige),2025-12-08,14,Monday
+14,2025-12-08 15:46:28,1,Handbetrieb,2025-12-08,15,Monday
+14,2025-12-09 07:24:45,2,Sonstige,2025-12-09,7,Tuesday
+14,2025-12-09 09:27:16,5,Notstopp (sonstige),2025-12-09,9,Tuesday
+14,2025-12-09 14:21:12,5,Notstopp (sonstige),2025-12-09,14,Tuesday
+14,2025-12-09 16:35:25,1,Handbetrieb,2025-12-09,16,Tuesday
+14,2025-12-09 16:54:16,0,Sonstige,2025-12-09,16,Tuesday
+14,2025-12-11 01:09:15,21,Beladung nicht plausibel,2025-12-11,1,Thursday
+14,2025-12-11 16:16:59,9,Sonstige,2025-12-11,16,Thursday
+14,2025-12-11 22:09:21,3,Notstopp (sonstige),2025-12-11,22,Thursday
+14,2025-12-12 04:24:24,3,Blockung,2025-12-12,4,Friday
+14,2025-12-12 11:56:00,4,Beladung nicht plausibel,2025-12-12,11,Friday
+14,2025-12-13 00:28:07,0,Blockung,2025-12-13,0,Saturday
+14,2025-12-13 18:21:46,1,Sicherheitsfeld / SICK,2025-12-13,18,Saturday
+14,2025-12-13 19:17:19,1,Handbetrieb,2025-12-13,19,Saturday
+14,2025-12-13 19:34:52,16,Notstopp (sonstige),2025-12-13,19,Saturday
+14,2025-12-13 20:18:07,1,Sonstige,2025-12-13,20,Saturday
+14,2025-12-14 03:52:53,1,Sonstige,2025-12-14,3,Sunday
+14,2025-12-14 06:06:44,5,Handbetrieb,2025-12-14,6,Sunday
+14,2025-12-14 23:59:11,1,Sonstige,2025-12-14,23,Sunday
+14,2025-12-15 07:32:32,14,Sonstige,2025-12-15,7,Monday
+14,2025-12-16 14:48:39,2,Sonstige,2025-12-16,14,Tuesday
+14,2025-12-17 21:03:58,2,Notstopp (sonstige),2025-12-17,21,Wednesday
+14,2025-12-18 08:27:45,12,Notstopp (sonstige),2025-12-18,8,Thursday
+14,2025-12-18 11:18:45,18,Notstopp (sonstige),2025-12-18,11,Thursday
+14,2025-12-18 12:06:56,0,Sonstige,2025-12-18,12,Thursday
+14,2025-12-18 13:48:34,2,Sonstige,2025-12-18,13,Thursday
+14,2025-12-18 14:55:44,4,Sonstige,2025-12-18,14,Thursday
+14,2025-12-18 15:16:14,7,Sonstige,2025-12-18,15,Thursday
+14,2025-12-19 04:09:03,1,Klammer Timeout,2025-12-19,4,Friday
+14,2025-12-19 05:42:05,0,Sonstige,2025-12-19,5,Friday
+14,2026-01-08 12:08:50,2,Sonstige,2026-01-08,12,Thursday
+14,2026-01-09 06:20:32,164,Notstopp (sonstige),2026-01-09,6,Friday
+14,2026-01-09 13:17:02,9,Sonstige,2026-01-09,13,Friday
+14,2026-01-10 06:13:09,4,Sonstige,2026-01-10,6,Saturday
+14,2026-01-10 06:37:40,5,Beladung nicht plausibel,2026-01-10,6,Saturday
+14,2026-01-10 20:59:33,17,Sonstige,2026-01-10,20,Saturday
+15,2025-12-07 05:08:57,1,Handbetrieb,2025-12-07,5,Sunday
+15,2025-12-07 12:59:42,0,Notstopp (sonstige),2025-12-07,12,Sunday
+15,2025-12-07 21:11:05,0,Sonstige,2025-12-07,21,Sunday
+15,2025-12-07 21:25:11,10,Notstopp (sonstige),2025-12-07,21,Sunday
+15,2025-12-07 21:35:45,5,Handbetrieb,2025-12-07,21,Sunday
+15,2025-12-07 21:49:04,1,Handbetrieb,2025-12-07,21,Sunday
+15,2025-12-08 04:35:11,8,Beladung nicht plausibel,2025-12-08,4,Monday
+15,2025-12-08 04:44:11,0,Handbetrieb,2025-12-08,4,Monday
+15,2025-12-08 15:40:09,3,Beladung nicht plausibel,2025-12-08,15,Monday
+15,2025-12-08 21:54:44,8,Handbetrieb,2025-12-08,21,Monday
+15,2025-12-08 22:03:33,0,Handbetrieb,2025-12-08,22,Monday
+15,2025-12-09 14:09:12,1,Beladung nicht plausibel,2025-12-09,14,Tuesday
+15,2025-12-09 23:55:17,0,Handbetrieb,2025-12-09,23,Tuesday
+15,2025-12-10 21:39:57,12,Sonstige,2025-12-10,21,Wednesday
+15,2025-12-10 21:52:46,0,Sonstige,2025-12-10,21,Wednesday
+15,2025-12-11 00:59:04,1,Sonstige,2025-12-11,0,Thursday
+15,2025-12-11 01:07:43,1,Handbetrieb,2025-12-11,1,Thursday
+15,2025-12-11 06:46:55,3,Sonstige,2025-12-11,6,Thursday
+15,2025-12-12 08:50:06,4,Sonstige,2025-12-12,8,Friday
+15,2025-12-12 22:17:20,5,Beladung nicht plausibel,2025-12-12,22,Friday
+15,2025-12-13 01:25:55,56,Beladung nicht plausibel,2025-12-13,1,Saturday
+15,2025-12-13 04:57:22,2,Handbetrieb,2025-12-13,4,Saturday
+15,2025-12-13 11:10:37,3,Notstopp (sonstige),2025-12-13,11,Saturday
+15,2025-12-13 11:34:30,16,Sonstige,2025-12-13,11,Saturday
+15,2025-12-13 11:42:26,1,Handbetrieb,2025-12-13,11,Saturday
+15,2025-12-14 01:22:32,1,Handbetrieb,2025-12-14,1,Sunday
+15,2025-12-14 04:56:10,5,Blockung,2025-12-14,4,Sunday
+15,2025-12-14 12:53:43,0,Sicherheitsfeld / SICK,2025-12-14,12,Sunday
+15,2025-12-14 12:58:56,0,Sonstige,2025-12-14,12,Sunday
+15,2025-12-15 02:12:52,2,Blockung,2025-12-15,2,Monday
+15,2025-12-16 01:24:52,1,Sonstige,2025-12-16,1,Tuesday
+15,2025-12-16 04:44:58,1,Sonstige,2025-12-16,4,Tuesday
+15,2025-12-16 23:13:11,2,Beladung nicht plausibel,2025-12-16,23,Tuesday
+15,2025-12-17 08:08:42,3,Notstopp (sonstige),2025-12-17,8,Wednesday
+15,2025-12-17 18:30:12,4,Handbetrieb,2025-12-17,18,Wednesday
+15,2025-12-17 20:34:44,5,Notstopp (sonstige),2025-12-17,20,Wednesday
+15,2025-12-17 20:46:52,4,Notstopp (sonstige),2025-12-17,20,Wednesday
+15,2025-12-17 23:36:04,1,Sonstige,2025-12-17,23,Wednesday
+15,2025-12-18 08:47:33,4,Notstopp (sonstige),2025-12-18,8,Thursday
+15,2025-12-19 01:00:30,4,Notstopp (sonstige),2025-12-19,1,Friday
+15,2025-12-19 03:37:57,2,Sonstige,2025-12-19,3,Friday
+15,2025-12-19 06:14:08,0,Handbetrieb,2025-12-19,6,Friday
+15,2025-12-19 06:46:57,3,Handbetrieb,2025-12-19,6,Friday
+15,2025-12-19 06:56:34,4,Notstopp (sonstige),2025-12-19,6,Friday
+15,2025-12-19 07:48:21,25,Notstopp (sonstige),2025-12-19,7,Friday
+15,2025-12-19 11:17:15,22,Sonstige,2025-12-19,11,Friday
+15,2025-12-19 11:42:01,4,Sonstige,2025-12-19,11,Friday
+15,2025-12-19 11:47:55,51,Sonstige,2025-12-19,11,Friday
+15,2025-12-19 12:52:53,7,Beladung nicht plausibel,2025-12-19,12,Friday
+15,2025-12-19 14:40:39,18,Notstopp (sonstige),2025-12-19,14,Friday
+15,2025-12-19 14:58:55,0,Notstopp (sonstige),2025-12-19,14,Friday
+15,2025-12-19 16:40:16,20,Sonstige,2025-12-19,16,Friday
+15,2025-12-19 17:58:43,0,Notstopp (sonstige),2025-12-19,17,Friday
+15,2025-12-19 21:03:25,4,Notstopp (sonstige),2025-12-19,21,Friday
+15,2025-12-20 03:38:42,3,Sonstige,2025-12-20,3,Saturday
+15,2025-12-20 11:13:30,11,Blockung,2025-12-20,11,Saturday
+15,2025-12-20 11:24:46,2,Sonstige,2025-12-20,11,Saturday
+15,2025-12-22 08:53:15,13,Sonstige,2025-12-22,8,Monday
+15,2025-12-22 09:08:05,30,Sonstige,2025-12-22,9,Monday
+15,2026-01-09 14:55:04,923,Sonstige,2026-01-09,14,Friday
+15,2026-01-10 06:19:18,0,Sonstige,2026-01-10,6,Saturday
+15,2026-01-11 07:18:13,2,Sonstige,2026-01-11,7,Sunday
+15,2026-01-11 14:26:20,18,Notstopp (sonstige),2026-01-11,14,Sunday
+15,2026-01-11 14:44:15,2,Notstopp (sonstige),2026-01-11,14,Sunday
+15,2026-01-11 19:57:08,8,Notstopp (sonstige),2026-01-11,19,Sunday
+15,2026-01-11 20:06:25,5,Notstopp (sonstige),2026-01-11,20,Sunday
+16,2025-12-08 02:05:38,2,Klammer Timeout,2025-12-08,2,Monday
+16,2025-12-08 05:34:07,2,Klammer Timeout,2025-12-08,5,Monday
+16,2025-12-08 07:32:15,3,Sonstige,2025-12-08,7,Monday
+16,2025-12-09 01:10:09,3,Sonstige,2025-12-09,1,Tuesday
+16,2025-12-09 15:21:51,1,Sonstige,2025-12-09,15,Tuesday
+16,2025-12-09 23:12:23,6,Beladung nicht plausibel,2025-12-09,23,Tuesday
+16,2025-12-09 23:18:44,0,Blockung,2025-12-09,23,Tuesday
+16,2025-12-10 13:58:58,21,Handbetrieb,2025-12-10,13,Wednesday
+16,2025-12-10 14:24:22,0,Handbetrieb,2025-12-10,14,Wednesday
+16,2025-12-10 19:37:33,1,Handbetrieb,2025-12-10,19,Wednesday
+16,2025-12-11 01:20:49,5,Beladung nicht plausibel,2025-12-11,1,Thursday
+16,2025-12-11 03:39:59,2,Notstopp (sonstige),2025-12-11,3,Thursday
+16,2025-12-11 05:49:42,10,Beladung nicht plausibel,2025-12-11,5,Thursday
+16,2025-12-11 05:59:14,1,Beladung nicht plausibel,2025-12-11,5,Thursday
+16,2025-12-11 11:52:26,4,Sonstige,2025-12-11,11,Thursday
+16,2025-12-12 05:29:58,1,Notstopp (sonstige),2025-12-12,5,Friday
+16,2025-12-12 18:06:05,9,Beladung nicht plausibel,2025-12-12,18,Friday
+16,2025-12-12 20:22:58,5,Beladung nicht plausibel,2025-12-12,20,Friday
+16,2025-12-13 19:55:42,2,Handbetrieb,2025-12-13,19,Saturday
+16,2025-12-13 20:53:45,848,Notstopp (sonstige),2025-12-13,20,Saturday
+16,2025-12-14 12:22:28,1,Handbetrieb,2025-12-14,12,Sunday
+16,2025-12-14 16:29:01,14,Klammer Timeout,2025-12-14,16,Sunday
+16,2025-12-15 16:39:39,3,Notstopp (sonstige),2025-12-15,16,Monday
+16,2025-12-16 11:32:49,1,Notstopp (sonstige),2025-12-16,11,Tuesday
+16,2025-12-16 14:48:43,3,Blockung,2025-12-16,14,Tuesday
+16,2025-12-19 05:44:26,1,Sonstige,2025-12-19,5,Friday
+16,2025-12-19 07:22:46,2,Sicherheitsfeld / SICK,2025-12-19,7,Friday
+16,2025-12-19 07:56:54,6,Notstopp (sonstige),2025-12-19,7,Friday
+16,2025-12-19 08:21:19,4,Handbetrieb,2025-12-19,8,Friday
+16,2025-12-19 09:11:05,4,Klammer Timeout,2025-12-19,9,Friday
+16,2025-12-19 10:39:04,2,Sonstige,2025-12-19,10,Friday
+16,2025-12-19 10:54:37,1,Klammer Timeout,2025-12-19,10,Friday
+16,2025-12-19 12:26:58,8,Blockung,2025-12-19,12,Friday
+16,2025-12-19 14:04:13,4,Sonstige,2025-12-19,14,Friday
+16,2025-12-19 15:59:02,0,Sonstige,2025-12-19,15,Friday
+16,2025-12-19 17:08:40,7,Sonstige,2025-12-19,17,Friday
+16,2025-12-19 17:15:44,0,Sonstige,2025-12-19,17,Friday
+16,2025-12-19 21:10:49,1,Sonstige,2025-12-19,21,Friday
+16,2025-12-19 22:25:25,6,Handbetrieb,2025-12-19,22,Friday
+16,2025-12-19 23:24:54,17,Notstopp (sonstige),2025-12-19,23,Friday
+16,2025-12-19 23:42:17,0,Sonstige,2025-12-19,23,Friday
+16,2025-12-19 23:58:51,16,Sonstige,2025-12-19,23,Friday
+16,2025-12-20 00:31:17,30,Notstopp (sonstige),2025-12-20,0,Saturday
+16,2025-12-20 01:01:26,1,Handbetrieb,2025-12-20,1,Saturday
+16,2025-12-20 06:18:31,4,Sonstige,2025-12-20,6,Saturday
+16,2025-12-20 06:43:02,2,Blockung,2025-12-20,6,Saturday
+16,2025-12-20 07:25:29,4,Sonstige,2025-12-20,7,Saturday
+16,2025-12-20 14:01:30,1,Sonstige,2025-12-20,14,Saturday
+16,2025-12-20 14:28:38,4,Sonstige,2025-12-20,14,Saturday
+16,2025-12-20 14:50:45,2,Sonstige,2025-12-20,14,Saturday
+16,2025-12-20 16:44:20,3,Navigation,2025-12-20,16,Saturday
+16,2025-12-20 21:26:39,4,Sonstige,2025-12-20,21,Saturday
+16,2025-12-20 22:05:48,7,Sonstige,2025-12-20,22,Saturday
+16,2025-12-20 22:44:26,3,Sonstige,2025-12-20,22,Saturday
+16,2025-12-20 23:37:19,0,Sonstige,2025-12-20,23,Saturday
+16,2025-12-21 01:13:38,3,Sonstige,2025-12-21,1,Sunday
+16,2025-12-21 04:26:36,1,Sonstige,2025-12-21,4,Sunday
+16,2025-12-21 04:37:03,0,Notstopp (sonstige),2025-12-21,4,Sunday
+16,2025-12-21 05:01:14,1,Blockung,2025-12-21,5,Sunday
+16,2025-12-21 05:18:16,4,Sonstige,2025-12-21,5,Sunday
+16,2025-12-21 06:37:38,2,Klammer Timeout,2025-12-21,6,Sunday
+16,2025-12-21 07:51:13,4,Handbetrieb,2025-12-21,7,Sunday
+16,2025-12-21 09:47:52,1,Blockung,2025-12-21,9,Sunday
+16,2025-12-21 12:45:02,1,Blockung,2025-12-21,12,Sunday
+16,2025-12-21 12:55:52,1,Sonstige,2025-12-21,12,Sunday
+17,2025-12-07 13:40:05,1,Handbetrieb,2025-12-07,13,Sunday
+17,2025-12-08 12:43:04,9,Handbetrieb,2025-12-08,12,Monday
+17,2025-12-09 03:01:57,3,Handbetrieb,2025-12-09,3,Tuesday
+17,2025-12-10 11:10:16,6,Notstopp (sonstige),2025-12-10,11,Wednesday
+17,2025-12-10 11:16:59,2,Sonstige,2025-12-10,11,Wednesday
+17,2025-12-10 14:22:05,1,Notstopp (sonstige),2025-12-10,14,Wednesday
+17,2025-12-11 02:43:10,4,Klammer Timeout,2025-12-11,2,Thursday
+17,2025-12-11 17:49:21,3,Sicherheitsfeld / SICK,2025-12-11,17,Thursday
+17,2025-12-11 19:55:42,3,Beladung nicht plausibel,2025-12-11,19,Thursday
+17,2025-12-12 20:25:50,2,Blockung,2025-12-12,20,Friday
+17,2025-12-13 01:18:28,46,Sonstige,2025-12-13,1,Saturday
+17,2025-12-13 02:06:02,0,Sonstige,2025-12-13,2,Saturday
+17,2025-12-13 19:37:06,2,Handbetrieb,2025-12-13,19,Saturday
+17,2025-12-13 19:46:54,2,Sicherheitsfeld / SICK,2025-12-13,19,Saturday
+17,2025-12-13 23:33:31,5,Notstopp (sonstige),2025-12-13,23,Saturday
+17,2025-12-13 23:39:15,1,Notstopp (sonstige),2025-12-13,23,Saturday
+17,2025-12-15 05:20:19,3,Klammer Timeout,2025-12-15,5,Monday
+17,2025-12-15 13:42:56,21,Notstopp (sonstige),2025-12-15,13,Monday
+17,2025-12-15 14:03:25,0,Notstopp (sonstige),2025-12-15,14,Monday
+17,2025-12-16 02:05:00,9,Sonstige,2025-12-16,2,Tuesday
+17,2025-12-16 02:38:22,1,Sicherheitsfeld / SICK,2025-12-16,2,Tuesday
+17,2025-12-16 03:16:09,0,Handbetrieb,2025-12-16,3,Tuesday
+17,2025-12-16 14:14:34,3,Notstopp (sonstige),2025-12-16,14,Tuesday
+17,2026-01-09 13:47:05,0,Sicherheitsfeld / SICK,2026-01-09,13,Friday
+17,2026-01-10 06:12:37,1,Sonstige,2026-01-10,6,Saturday
+17,2026-01-10 06:37:50,4,Beladung nicht plausibel,2026-01-10,6,Saturday
+17,2026-01-10 09:10:13,0,Beladung nicht plausibel,2026-01-10,9,Saturday
+17,2026-01-10 16:09:43,1,Sonstige,2026-01-10,16,Saturday
+17,2026-01-10 21:37:47,12,Sonstige,2026-01-10,21,Saturday
+17,2026-01-10 21:52:12,35,Sonstige,2026-01-10,21,Saturday
+17,2026-01-11 06:30:30,19,Navigation,2026-01-11,6,Sunday
+17,2026-01-11 06:49:57,5,Navigation,2026-01-11,6,Sunday
+17,2026-01-11 17:19:11,17,Notstopp (sonstige),2026-01-11,17,Sunday
+17,2026-01-11 17:36:38,5,Sonstige,2026-01-11,17,Sunday
+18,2025-12-08 06:19:48,3,Klammer Timeout,2025-12-08,6,Monday
+18,2025-12-08 19:05:05,4,Sonstige,2025-12-08,19,Monday
+18,2025-12-09 08:23:54,1,Handbetrieb,2025-12-09,8,Tuesday
+18,2025-12-09 16:50:58,1,Handbetrieb,2025-12-09,16,Tuesday
+18,2025-12-09 22:00:08,0,Handbetrieb,2025-12-09,22,Tuesday
+18,2025-12-09 23:34:14,4,Notstopp (sonstige),2025-12-09,23,Tuesday
+18,2025-12-09 23:48:37,5,Notstopp (sonstige),2025-12-09,23,Tuesday
+18,2025-12-12 04:59:31,2,Sicherheitsfeld / SICK,2025-12-12,4,Friday
+18,2025-12-12 05:13:14,1,Sonstige,2025-12-12,5,Friday
+18,2025-12-12 18:34:09,0,Handbetrieb,2025-12-12,18,Friday
+18,2025-12-13 01:37:19,0,Sonstige,2025-12-13,1,Saturday
+18,2025-12-13 20:00:02,1,Blockung,2025-12-13,20,Saturday
+18,2025-12-13 20:58:42,1990,Handbetrieb,2025-12-13,20,Saturday
+18,2025-12-15 13:54:37,1,Notstopp (sonstige),2025-12-15,13,Monday
+18,2025-12-15 20:27:23,5,Sonstige,2025-12-15,20,Monday
+18,2025-12-15 20:33:47,1,Blockung,2025-12-15,20,Monday
+18,2025-12-16 01:24:10,1,Sonstige,2025-12-16,1,Tuesday
+18,2025-12-16 06:19:55,6,Notstopp (sonstige),2025-12-16,6,Tuesday
+18,2025-12-16 06:25:35,0,Notstopp (sonstige),2025-12-16,6,Tuesday
+18,2025-12-16 12:44:37,4,Sicherheitsfeld / SICK,2025-12-16,12,Tuesday
+18,2025-12-18 13:46:55,2,Sonstige,2025-12-18,13,Thursday
+18,2025-12-18 16:38:16,1,Handbetrieb,2025-12-18,16,Thursday
+18,2025-12-18 21:49:47,16,Notstopp (sonstige),2025-12-18,21,Thursday
+18,2025-12-19 00:06:37,1,Blockung,2025-12-19,0,Friday
+18,2025-12-19 15:49:34,8,Notstopp (sonstige),2025-12-19,15,Friday
+18,2025-12-20 02:08:53,2,Handbetrieb,2025-12-20,2,Saturday
+18,2025-12-20 10:04:52,7,Sonstige,2025-12-20,10,Saturday
+18,2025-12-21 07:24:06,2,Sonstige,2025-12-21,7,Sunday
+18,2025-12-21 07:31:22,18,Sonstige,2025-12-21,7,Sunday
+18,2025-12-21 10:07:24,1,Sonstige,2025-12-21,10,Sunday
+18,2025-12-21 14:14:10,0,Handbetrieb,2025-12-21,14,Sunday
+18,2025-12-21 14:36:25,0,Handbetrieb,2025-12-21,14,Sunday
+18,2025-12-21 14:45:37,7,Sonstige,2025-12-21,14,Sunday
+18,2025-12-21 15:19:08,10,Notstopp (sonstige),2025-12-21,15,Sunday
+18,2025-12-21 15:29:41,8,Notstopp (sonstige),2025-12-21,15,Sunday
+18,2025-12-21 15:38:37,1,Notstopp (sonstige),2025-12-21,15,Sunday
+18,2025-12-21 17:04:58,1,Handbetrieb,2025-12-21,17,Sunday
+18,2025-12-21 19:40:45,1,Sonstige,2025-12-21,19,Sunday
+18,2025-12-21 22:45:17,1,Handbetrieb,2025-12-21,22,Sunday
+18,2025-12-21 23:45:48,1,Sonstige,2025-12-21,23,Sunday
+18,2025-12-22 00:35:09,0,Handbetrieb,2025-12-22,0,Monday
+18,2025-12-22 01:04:11,0,Handbetrieb,2025-12-22,1,Monday
+18,2025-12-22 01:58:11,0,Handbetrieb,2025-12-22,1,Monday
+18,2025-12-22 02:28:34,1,Handbetrieb,2025-12-22,2,Monday
+18,2025-12-22 03:00:32,2,Handbetrieb,2025-12-22,3,Monday
+18,2025-12-22 03:34:10,3,Notstopp (sonstige),2025-12-22,3,Monday
+18,2025-12-22 05:12:37,1,Sonstige,2025-12-22,5,Monday
+18,2025-12-22 08:11:03,5,Sonstige,2025-12-22,8,Monday
+18,2025-12-22 12:15:19,27,Handbetrieb,2025-12-22,12,Monday
+18,2025-12-22 12:44:09,0,Sonstige,2025-12-22,12,Monday
+18,2026-01-08 09:53:28,0,Sonstige,2026-01-08,9,Thursday
+18,2026-01-09 09:25:30,36,Sonstige,2026-01-09,9,Friday
+18,2026-01-10 06:42:59,33,Notstopp (sonstige),2026-01-10,6,Saturday
+18,2026-01-10 09:08:24,2,Notstopp (sonstige),2026-01-10,9,Saturday
+18,2026-01-10 09:43:03,1,Notstopp (sonstige),2026-01-10,9,Saturday
+18,2026-01-10 09:53:53,1,Notstopp (sonstige),2026-01-10,9,Saturday
+18,2026-01-10 11:09:28,52,Sonstige,2026-01-10,11,Saturday
+18,2026-01-11 00:27:46,3,Sonstige,2026-01-11,0,Sunday
+18,2026-01-11 11:10:52,1,Sonstige,2026-01-11,11,Sunday
+18,2026-01-11 13:31:46,3,Notstopp (sonstige),2026-01-11,13,Sunday
+18,2026-01-11 18:06:53,2,Sonstige,2026-01-11,18,Sunday
+19,2025-12-07 05:27:28,2,Handbetrieb,2025-12-07,5,Sunday
+19,2025-12-08 19:09:42,2,Beladung nicht plausibel,2025-12-08,19,Monday
+19,2025-12-10 01:40:21,21,Klammer Timeout,2025-12-10,1,Wednesday
+19,2025-12-10 08:58:35,5,Notstopp (sonstige),2025-12-10,8,Wednesday
+19,2025-12-11 00:11:21,15,Klammer Timeout,2025-12-11,0,Thursday
+19,2025-12-11 02:09:47,14,Notstopp (sonstige),2025-12-11,2,Thursday
+19,2025-12-12 17:24:57,6,Klammer Timeout,2025-12-12,17,Friday
+19,2025-12-12 18:19:10,0,Notstopp (sonstige),2025-12-12,18,Friday
+19,2025-12-13 11:24:36,2,Notstopp (sonstige),2025-12-13,11,Saturday
+19,2025-12-13 20:53:03,0,Sonstige,2025-12-13,20,Saturday
+19,2025-12-14 02:02:24,4,Handbetrieb,2025-12-14,2,Sunday
+19,2025-12-14 17:23:07,1,Klammer Timeout,2025-12-14,17,Sunday
+19,2025-12-14 22:55:00,1,Beladung nicht plausibel,2025-12-14,22,Sunday
+19,2025-12-17 04:02:29,1,Handbetrieb,2025-12-17,4,Wednesday
+19,2025-12-17 14:03:02,4,Klammer Timeout,2025-12-17,14,Wednesday
+19,2025-12-18 00:21:47,2,Sonstige,2025-12-18,0,Thursday
+19,2025-12-18 05:30:27,1,Sonstige,2025-12-18,5,Thursday
+19,2025-12-18 07:10:29,7,Handbetrieb,2025-12-18,7,Thursday
+19,2025-12-18 07:34:46,51,Sonstige,2025-12-18,7,Thursday
+19,2025-12-18 10:19:33,2,Notstopp (sonstige),2025-12-18,10,Thursday
+19,2025-12-18 15:29:34,1,Notstopp (sonstige),2025-12-18,15,Thursday
+19,2025-12-18 19:34:39,2,Notstopp (sonstige),2025-12-18,19,Thursday
+19,2025-12-19 01:24:10,2,Sonstige,2025-12-19,1,Friday
+19,2026-01-08 11:24:08,1,Sonstige,2026-01-08,11,Thursday
+19,2026-01-10 06:13:36,22,Sonstige,2026-01-10,6,Saturday
+20,2025-12-07 03:00:55,3,Sonstige,2025-12-07,3,Sunday
+20,2025-12-07 13:12:23,0,Beladung nicht plausibel,2025-12-07,13,Sunday
+20,2025-12-08 02:09:34,1,Handbetrieb,2025-12-08,2,Monday
+20,2025-12-08 11:02:55,1486,Handbetrieb,2025-12-08,11,Monday
+20,2025-12-09 13:07:20,7,Handbetrieb,2025-12-09,13,Tuesday
+20,2025-12-09 13:14:48,12,Notstopp (sonstige),2025-12-09,13,Tuesday
+20,2025-12-09 14:26:22,2,Notstopp (sonstige),2025-12-09,14,Tuesday
+20,2025-12-09 14:43:22,3,Notstopp (sonstige),2025-12-09,14,Tuesday
+20,2025-12-09 14:48:52,4,Notstopp (sonstige),2025-12-09,14,Tuesday
+20,2025-12-09 15:15:32,3,Notstopp (sonstige),2025-12-09,15,Tuesday
+20,2025-12-09 16:48:35,1,Handbetrieb,2025-12-09,16,Tuesday
+20,2025-12-09 22:29:23,6,Notstopp (sonstige),2025-12-09,22,Tuesday
+20,2025-12-09 22:35:31,0,Notstopp (sonstige),2025-12-09,22,Tuesday
+20,2025-12-09 22:47:37,0,Notstopp (sonstige),2025-12-09,22,Tuesday
+20,2025-12-10 04:33:18,3,Sonstige,2025-12-10,4,Wednesday
+20,2025-12-10 19:36:37,1,Handbetrieb,2025-12-10,19,Wednesday
+20,2025-12-11 01:23:10,14,Notstopp (sonstige),2025-12-11,1,Thursday
+20,2025-12-11 03:32:38,1,Handbetrieb,2025-12-11,3,Thursday
+20,2025-12-11 05:12:27,3,Sonstige,2025-12-11,5,Thursday
+20,2025-12-11 10:20:25,2,Notstopp (sonstige),2025-12-11,10,Thursday
+20,2025-12-11 10:36:48,3,Beladung nicht plausibel,2025-12-11,10,Thursday
+20,2025-12-11 11:49:55,4,Beladung nicht plausibel,2025-12-11,11,Thursday
+20,2025-12-11 14:12:55,4,Notstopp (sonstige),2025-12-11,14,Thursday
+20,2025-12-11 23:03:41,6,Beladung nicht plausibel,2025-12-11,23,Thursday
+20,2025-12-12 00:40:45,5,Beladung nicht plausibel,2025-12-12,0,Friday
+20,2025-12-12 01:32:26,1,Handbetrieb,2025-12-12,1,Friday
+20,2025-12-12 02:16:25,0,Handbetrieb,2025-12-12,2,Friday
+20,2025-12-12 02:25:14,1,Beladung nicht plausibel,2025-12-12,2,Friday
+20,2025-12-12 03:06:40,0,Handbetrieb,2025-12-12,3,Friday
+20,2025-12-12 05:02:06,0,Handbetrieb,2025-12-12,5,Friday
+20,2025-12-12 22:36:28,2,Handbetrieb,2025-12-12,22,Friday
+20,2025-12-13 00:34:51,1,Sonstige,2025-12-13,0,Saturday
+20,2025-12-13 01:59:39,1,Beladung nicht plausibel,2025-12-13,1,Saturday
+20,2025-12-13 20:01:47,2,Sonstige,2025-12-13,20,Saturday
+20,2025-12-14 00:38:26,8,Notstopp (sonstige),2025-12-14,0,Sunday
+20,2025-12-14 00:47:09,0,Handbetrieb,2025-12-14,0,Sunday
+20,2025-12-14 03:59:36,0,Handbetrieb,2025-12-14,3,Sunday
+20,2025-12-14 06:16:21,0,Sonstige,2025-12-14,6,Sunday
+20,2025-12-14 07:35:06,2,Beladung nicht plausibel,2025-12-14,7,Sunday
+20,2025-12-15 06:52:58,0,Sonstige,2025-12-15,6,Monday
+20,2025-12-16 23:44:21,1,Handbetrieb,2025-12-16,23,Tuesday
+20,2025-12-17 00:37:19,0,Sonstige,2025-12-17,0,Wednesday
+20,2025-12-17 11:20:28,0,Notstopp (sonstige),2025-12-17,11,Wednesday
+20,2025-12-17 19:06:01,1,Notstopp (sonstige),2025-12-17,19,Wednesday
+20,2025-12-18 00:31:34,0,Sonstige,2025-12-18,0,Thursday
+20,2025-12-18 05:36:51,2,Sonstige,2025-12-18,5,Thursday
+20,2025-12-18 15:55:55,8,Beladung nicht plausibel,2025-12-18,15,Thursday
+20,2026-01-09 13:37:47,0,Sonstige,2026-01-09,13,Friday
+20,2026-01-11 15:05:12,0,Sonstige,2026-01-11,15,Sunday
+20,2026-01-11 18:14:14,0,Notstopp (sonstige),2026-01-11,18,Sunday
+20,2026-01-11 19:15:25,0,Sonstige,2026-01-11,19,Sunday
+22,2025-12-07 10:12:12,6,Klammer Timeout,2025-12-07,10,Sunday
+22,2025-12-08 05:48:19,13,Klammer Timeout,2025-12-08,5,Monday
+22,2025-12-08 08:35:27,2,Klammer Timeout,2025-12-08,8,Monday
+22,2025-12-08 12:39:53,2,Sonstige,2025-12-08,12,Monday
+22,2025-12-08 12:54:40,2,Handbetrieb,2025-12-08,12,Monday
+22,2025-12-09 11:18:59,3,Klammer Timeout,2025-12-09,11,Tuesday
+22,2025-12-09 16:55:03,0,Handbetrieb,2025-12-09,16,Tuesday
+22,2025-12-10 09:03:00,262,Handbetrieb,2025-12-10,9,Wednesday
+22,2025-12-10 19:52:50,2,Sonstige,2025-12-10,19,Wednesday
+22,2025-12-11 16:32:49,6,Notstopp (sonstige),2025-12-11,16,Thursday
+22,2025-12-12 21:02:10,1,Sonstige,2025-12-12,21,Friday
+22,2025-12-13 19:11:43,939,Notstopp (sonstige),2025-12-13,19,Saturday
+22,2025-12-14 12:24:31,1,Notstopp (sonstige),2025-12-14,12,Sunday
+22,2025-12-14 13:06:05,0,Notstopp (sonstige),2025-12-14,13,Sunday
+22,2025-12-14 21:09:23,3,Sonstige,2025-12-14,21,Sunday
+22,2025-12-16 14:48:30,3,Sonstige,2025-12-16,14,Tuesday
+22,2025-12-16 19:47:25,5,Sonstige,2025-12-16,19,Tuesday
+22,2025-12-17 11:41:04,11,Klammer Timeout,2025-12-17,11,Wednesday
+22,2025-12-17 12:19:10,3,Klammer Timeout,2025-12-17,12,Wednesday
+22,2025-12-18 11:26:04,5,Klammer Timeout,2025-12-18,11,Thursday
+22,2025-12-18 14:09:58,7,Klammer Timeout,2025-12-18,14,Thursday
+22,2025-12-18 15:45:36,2,Sonstige,2025-12-18,15,Thursday
+22,2025-12-18 16:19:26,8,Notstopp (sonstige),2025-12-18,16,Thursday
+22,2025-12-18 16:31:58,3,Sonstige,2025-12-18,16,Thursday
+22,2025-12-18 16:56:43,5,Handbetrieb,2025-12-18,16,Thursday
+22,2025-12-18 21:40:16,2,Klammer Timeout,2025-12-18,21,Thursday
+22,2025-12-19 05:04:14,1,Sonstige,2025-12-19,5,Friday
+22,2026-01-08 10:57:14,5,Sonstige,2026-01-08,10,Thursday
+22,2026-01-08 14:31:54,3,Klammer Timeout,2026-01-08,14,Thursday
+22,2026-01-09 06:19:02,0,Sonstige,2026-01-09,6,Friday
+22,2026-01-09 06:47:40,120,Sonstige,2026-01-09,6,Friday
+22,2026-01-09 09:09:10,3,Notstopp (sonstige),2026-01-09,9,Friday
+22,2026-01-10 06:12:16,1,Sonstige,2026-01-10,6,Saturday
+22,2026-01-10 16:24:04,9,Notstopp (sonstige),2026-01-10,16,Saturday
+22,2026-01-11 13:12:03,3,Sonstige,2026-01-11,13,Sunday
+22,2026-01-11 14:30:01,0,Sonstige,2026-01-11,14,Sunday
+22,2026-01-12 11:16:31,15,Notstopp (sonstige),2026-01-12,11,Monday
+23,2025-12-08 21:00:25,1,Handbetrieb,2025-12-08,21,Monday
+23,2025-12-08 21:59:29,3,Sonstige,2025-12-08,21,Monday
+23,2025-12-09 07:27:17,0,Handbetrieb,2025-12-09,7,Tuesday
+23,2025-12-09 21:43:54,15,Klammer Timeout,2025-12-09,21,Tuesday
+23,2025-12-11 11:35:17,3,Handbetrieb,2025-12-11,11,Thursday
+23,2025-12-11 17:47:02,1,Sonstige,2025-12-11,17,Thursday
+23,2025-12-11 20:09:22,5,Handbetrieb,2025-12-11,20,Thursday
+23,2025-12-12 18:28:04,0,Handbetrieb,2025-12-12,18,Friday
+23,2025-12-13 00:37:09,1,Blockung,2025-12-13,0,Saturday
+23,2025-12-13 20:06:59,1,Sonstige,2025-12-13,20,Saturday
+23,2025-12-13 20:47:27,846,Handbetrieb,2025-12-13,20,Saturday
+23,2025-12-14 11:02:11,7,Sonstige,2025-12-14,11,Sunday
+23,2025-12-14 12:13:09,1,Sonstige,2025-12-14,12,Sunday
+23,2025-12-15 17:18:09,1,Beladung nicht plausibel,2025-12-15,17,Monday
+23,2025-12-16 03:33:11,1,Notstopp (sonstige),2025-12-16,3,Tuesday
+23,2025-12-16 14:53:57,4,Notstopp (sonstige),2025-12-16,14,Tuesday
+23,2025-12-16 22:00:55,5,Notstopp (sonstige),2025-12-16,22,Tuesday
+23,2025-12-16 23:29:46,3,Notstopp (sonstige),2025-12-16,23,Tuesday
+23,2025-12-17 19:14:43,3,Sonstige,2025-12-17,19,Wednesday
+23,2025-12-18 01:50:07,0,Notstopp (sonstige),2025-12-18,1,Thursday
+23,2025-12-18 13:16:07,2,Handbetrieb,2025-12-18,13,Thursday
+23,2025-12-18 15:59:19,1,Sonstige,2025-12-18,15,Thursday
+23,2025-12-19 14:34:25,3,Beladung nicht plausibel,2025-12-19,14,Friday
+23,2025-12-19 16:05:13,1,Sonstige,2025-12-19,16,Friday
+23,2025-12-20 10:47:25,1,Blockung,2025-12-20,10,Saturday
+23,2025-12-20 10:56:02,0,Sonstige,2025-12-20,10,Saturday
+23,2025-12-21 04:29:27,0,Blockung,2025-12-21,4,Sunday
+23,2025-12-21 04:52:02,0,Blockung,2025-12-21,4,Sunday
+23,2025-12-21 05:02:36,1,Sonstige,2025-12-21,5,Sunday
+23,2025-12-21 05:14:40,1,Handbetrieb,2025-12-21,5,Sunday
+23,2025-12-21 11:54:30,1,Handbetrieb,2025-12-21,11,Sunday
+23,2025-12-21 13:47:44,29,Notstopp (sonstige),2025-12-21,13,Sunday
+23,2025-12-21 15:25:45,1,Handbetrieb,2025-12-21,15,Sunday
+23,2025-12-21 16:57:13,0,Sonstige,2025-12-21,16,Sunday
+23,2025-12-22 01:09:39,7,Handbetrieb,2025-12-22,1,Monday
+23,2025-12-22 04:56:17,1,Sonstige,2025-12-22,4,Monday
+23,2025-12-22 05:07:37,2,Blockung,2025-12-22,5,Monday
+23,2025-12-22 05:13:58,1,Sonstige,2025-12-22,5,Monday
+23,2025-12-22 08:10:14,4,Notstopp (sonstige),2025-12-22,8,Monday
+23,2025-12-22 09:25:01,4,Sonstige,2025-12-22,9,Monday
+23,2025-12-22 10:30:58,1,Sonstige,2025-12-22,10,Monday
+23,2026-01-05 09:10:38,0,Sonstige,2026-01-05,9,Monday
+23,2026-01-05 09:18:48,1,Sonstige,2026-01-05,9,Monday
+23,2026-01-08 10:15:29,56,Sonstige,2026-01-08,10,Thursday
+23,2026-01-08 14:36:43,7,Sonstige,2026-01-08,14,Thursday
+23,2026-01-08 14:43:22,6,Beladung nicht plausibel,2026-01-08,14,Thursday
+23,2026-01-08 14:49:17,6,Beladung nicht plausibel,2026-01-08,14,Thursday
+23,2026-01-09 06:47:53,139,Sonstige,2026-01-09,6,Friday
+23,2026-01-09 10:24:12,1,Handbetrieb,2026-01-09,10,Friday
+23,2026-01-09 14:53:27,10,Sonstige,2026-01-09,14,Friday
+23,2026-01-11 19:53:55,5,Notstopp (sonstige),2026-01-11,19,Sunday
+23,2026-01-11 20:46:25,2,Notstopp (sonstige),2026-01-11,20,Sunday
+24,2025-12-08 17:26:52,3,Handbetrieb,2025-12-08,17,Monday
+24,2025-12-08 23:13:43,1,Handbetrieb,2025-12-08,23,Monday
+24,2025-12-09 01:28:27,2,Klammer Timeout,2025-12-09,1,Tuesday
+24,2025-12-09 07:21:43,5,Beladung nicht plausibel,2025-12-09,7,Tuesday
+24,2025-12-09 07:45:50,6,Sonstige,2025-12-09,7,Tuesday
+24,2025-12-09 09:12:54,2,Klammer Timeout,2025-12-09,9,Tuesday
+24,2025-12-09 09:48:57,3,Klammer Timeout,2025-12-09,9,Tuesday
+24,2025-12-09 15:23:33,5,Klammer Timeout,2025-12-09,15,Tuesday
+24,2025-12-09 16:21:01,0,Handbetrieb,2025-12-09,16,Tuesday
+24,2025-12-09 16:49:22,1,Handbetrieb,2025-12-09,16,Tuesday
+24,2025-12-10 08:59:39,14,Notstopp (sonstige),2025-12-10,8,Wednesday
+24,2025-12-11 16:05:20,1,Sonstige,2025-12-11,16,Thursday
+24,2025-12-12 04:28:07,0,Sonstige,2025-12-12,4,Friday
+24,2025-12-12 22:59:23,1,Sicherheitsfeld / SICK,2025-12-12,22,Friday
+24,2025-12-13 01:18:31,41,Sonstige,2025-12-13,1,Saturday
+24,2025-12-13 02:01:10,0,Sonstige,2025-12-13,2,Saturday
+24,2025-12-13 06:47:21,40,Sonstige,2025-12-13,6,Saturday
+24,2025-12-13 19:30:14,1,Blockung,2025-12-13,19,Saturday
+24,2025-12-13 19:41:41,231,Notstopp (sonstige),2025-12-13,19,Saturday
+24,2025-12-14 05:40:14,0,Sonstige,2025-12-14,5,Sunday
+24,2025-12-14 10:52:23,1,Sonstige,2025-12-14,10,Sunday
+24,2025-12-15 15:37:51,7,Klammer Timeout,2025-12-15,15,Monday
+24,2025-12-15 19:52:38,3,Klammer Timeout,2025-12-15,19,Monday
+24,2025-12-15 21:28:09,5,Sonstige,2025-12-15,21,Monday
+24,2025-12-16 14:39:32,2,Klammer Timeout,2025-12-16,14,Tuesday
+24,2025-12-17 12:26:10,4,Klammer Timeout,2025-12-17,12,Wednesday
+24,2025-12-17 15:49:13,3,Beladung nicht plausibel,2025-12-17,15,Wednesday
+24,2025-12-18 05:30:56,1,Sonstige,2025-12-18,5,Thursday
+24,2025-12-18 12:21:22,9,Beladung nicht plausibel,2025-12-18,12,Thursday
+24,2025-12-19 02:47:40,3,Beladung nicht plausibel,2025-12-19,2,Friday
+24,2026-01-10 06:13:05,0,Sonstige,2026-01-10,6,Saturday
+24,2026-01-10 09:46:13,2,Handbetrieb,2026-01-10,9,Saturday
+24,2026-01-11 11:44:16,0,Sonstige,2026-01-11,11,Sunday
+24,2026-01-11 17:24:56,13,Beladung nicht plausibel,2026-01-11,17,Sunday
+24,2026-01-11 17:38:00,2,Handbetrieb,2026-01-11,17,Sunday
+25,2025-12-08 07:56:14,1,Klammer Timeout,2025-12-08,7,Monday
+25,2025-12-08 09:53:06,3,Notstopp (sonstige),2025-12-08,9,Monday
+25,2025-12-08 16:06:59,1,Sicherheitsfeld / SICK,2025-12-08,16,Monday
+25,2025-12-08 18:58:22,2,Klammer Timeout,2025-12-08,18,Monday
+25,2025-12-09 07:51:57,1,Handbetrieb,2025-12-09,7,Tuesday
+25,2025-12-09 19:31:22,3,Notstopp (sonstige),2025-12-09,19,Tuesday
+25,2025-12-10 03:59:08,0,Notstopp (sonstige),2025-12-10,3,Wednesday
+25,2025-12-10 20:55:55,1,Klammer Timeout,2025-12-10,20,Wednesday
+25,2025-12-11 04:14:46,2,Klammer Timeout,2025-12-11,4,Thursday
+25,2025-12-11 04:59:18,5,Notstopp (sonstige),2025-12-11,4,Thursday
+25,2025-12-12 12:18:12,1,Notstopp (sonstige),2025-12-12,12,Friday
+25,2025-12-12 15:10:38,9,Klammer Timeout,2025-12-12,15,Friday
+25,2025-12-12 18:42:24,1,Handbetrieb,2025-12-12,18,Friday
+25,2025-12-13 01:16:34,35,Sonstige,2025-12-13,1,Saturday
+25,2025-12-13 01:52:46,0,Notstopp (sonstige),2025-12-13,1,Saturday
+25,2025-12-13 03:31:25,1,Klammer Timeout,2025-12-13,3,Saturday
+25,2025-12-13 19:28:43,4,Notstopp (sonstige),2025-12-13,19,Saturday
+25,2025-12-13 19:44:39,226,Notstopp (sonstige),2025-12-13,19,Saturday
+25,2025-12-15 14:12:05,9,Sonstige,2025-12-15,14,Monday
+25,2025-12-15 14:21:15,2,Notstopp (sonstige),2025-12-15,14,Monday
+25,2025-12-15 14:54:32,6,Handbetrieb,2025-12-15,14,Monday
+25,2025-12-15 19:26:57,2,Klammer Timeout,2025-12-15,19,Monday
+25,2025-12-16 01:57:44,2,Notstopp (sonstige),2025-12-16,1,Tuesday
+25,2025-12-16 04:52:55,1,Sonstige,2025-12-16,4,Tuesday
+25,2025-12-16 21:49:55,13,Sonstige,2025-12-16,21,Tuesday
+25,2025-12-17 02:14:43,5,Notstopp (sonstige),2025-12-17,2,Wednesday
+25,2025-12-17 02:20:49,3,Notstopp (sonstige),2025-12-17,2,Wednesday
+25,2025-12-18 05:07:05,1,Sonstige,2025-12-18,5,Thursday
+25,2025-12-18 05:34:02,1,Notstopp (sonstige),2025-12-18,5,Thursday
+25,2025-12-18 10:04:43,3,Sonstige,2025-12-18,10,Thursday
+25,2025-12-18 13:30:47,2,Klammer Timeout,2025-12-18,13,Thursday
+25,2025-12-18 15:42:27,3,Sonstige,2025-12-18,15,Thursday
+25,2025-12-18 16:59:06,0,Sonstige,2025-12-18,16,Thursday
+25,2025-12-19 00:04:56,2,Sonstige,2025-12-19,0,Friday
+25,2025-12-19 05:16:10,3,Notstopp (sonstige),2025-12-19,5,Friday
+25,2026-01-08 11:14:15,0,Sonstige,2026-01-08,11,Thursday
+25,2026-01-09 09:24:12,4,Sonstige,2026-01-09,9,Friday
+25,2026-01-10 20:20:09,21,Sonstige,2026-01-10,20,Saturday
+25,2026-01-10 20:42:27,3,Sonstige,2026-01-10,20,Saturday
+25,2026-01-10 21:34:32,4,Sonstige,2026-01-10,21,Saturday
+25,2026-01-12 08:34:40,0,Sonstige,2026-01-12,8,Monday
+26,2025-12-07 21:45:38,10,Sonstige,2025-12-07,21,Sunday
+26,2025-12-08 05:17:50,4,Klammer Timeout,2025-12-08,5,Monday
+26,2025-12-08 08:13:09,4,Notstopp (sonstige),2025-12-08,8,Monday
+26,2025-12-08 14:21:24,53,Sonstige,2025-12-08,14,Monday
+26,2025-12-08 15:16:18,1,Handbetrieb,2025-12-08,15,Monday
+26,2025-12-09 04:40:15,3,Klammer Timeout,2025-12-09,4,Tuesday
+26,2025-12-09 09:18:41,1,Handbetrieb,2025-12-09,9,Tuesday
+26,2025-12-09 18:43:19,2,Klammer Timeout,2025-12-09,18,Tuesday
+26,2025-12-09 23:11:53,4,Beladung nicht plausibel,2025-12-09,23,Tuesday
+26,2025-12-10 02:34:16,2,Sonstige,2025-12-10,2,Wednesday
+26,2025-12-10 06:40:51,3,Sonstige,2025-12-10,6,Wednesday
+26,2025-12-10 12:43:14,0,Notstopp (sonstige),2025-12-10,12,Wednesday
+26,2025-12-10 19:52:58,4,Notstopp (sonstige),2025-12-10,19,Wednesday
+26,2025-12-11 00:39:12,9,Beladung nicht plausibel,2025-12-11,0,Thursday
+26,2025-12-11 03:28:40,1,Handbetrieb,2025-12-11,3,Thursday
+26,2025-12-11 04:27:25,0,Sonstige,2025-12-11,4,Thursday
+26,2025-12-11 04:34:31,1,Handbetrieb,2025-12-11,4,Thursday
+26,2025-12-11 10:38:58,4,Blockung,2025-12-11,10,Thursday
+26,2025-12-11 12:32:43,3,Sonstige,2025-12-11,12,Thursday
+26,2025-12-11 22:29:59,2,Sicherheitsfeld / SICK,2025-12-11,22,Thursday
+26,2025-12-12 01:06:09,6,Klammer Timeout,2025-12-12,1,Friday
+26,2025-12-12 02:26:51,2,Handbetrieb,2025-12-12,2,Friday
+26,2025-12-12 02:52:03,3,Sonstige,2025-12-12,2,Friday
+26,2025-12-12 06:16:30,3,Beladung nicht plausibel,2025-12-12,6,Friday
+26,2025-12-12 10:53:45,4,Notstopp (sonstige),2025-12-12,10,Friday
+26,2025-12-12 14:25:02,6,Beladung nicht plausibel,2025-12-12,14,Friday
+26,2025-12-12 14:31:38,3,Sonstige,2025-12-12,14,Friday
+26,2025-12-12 18:13:01,2,Handbetrieb,2025-12-12,18,Friday
+26,2025-12-12 18:43:48,1,Sonstige,2025-12-12,18,Friday
+26,2025-12-13 01:16:37,40,Sonstige,2025-12-13,1,Saturday
+26,2025-12-13 09:42:19,4,Klammer Timeout,2025-12-13,9,Saturday
+26,2025-12-13 18:46:51,6,Klammer Timeout,2025-12-13,18,Saturday
+26,2025-12-13 19:33:46,1,Blockung,2025-12-13,19,Saturday
+26,2025-12-13 19:39:59,236,Sonstige,2025-12-13,19,Saturday
+26,2025-12-14 03:04:29,47,Klammer Timeout,2025-12-14,3,Sunday
+26,2025-12-14 03:51:36,2,Handbetrieb,2025-12-14,3,Sunday
+26,2025-12-14 06:13:56,2,Notstopp (sonstige),2025-12-14,6,Sunday
+26,2025-12-14 07:37:56,1,Klammer Timeout,2025-12-14,7,Sunday
+26,2025-12-14 09:07:54,3,Notstopp (sonstige),2025-12-14,9,Sunday
+26,2025-12-14 09:17:52,5,Beladung nicht plausibel,2025-12-14,9,Sunday
+26,2025-12-14 09:59:11,4,Klammer Timeout,2025-12-14,9,Sunday
+26,2025-12-14 10:48:09,7,Klammer Timeout,2025-12-14,10,Sunday
+26,2025-12-14 12:15:19,1,Handbetrieb,2025-12-14,12,Sunday
+26,2025-12-15 03:34:01,2,Klammer Timeout,2025-12-15,3,Monday
+26,2025-12-15 03:48:40,3,Klammer Timeout,2025-12-15,3,Monday
+26,2025-12-15 16:57:44,3,Beladung nicht plausibel,2025-12-15,16,Monday
+26,2025-12-15 17:15:16,1,Klammer Timeout,2025-12-15,17,Monday
+26,2025-12-17 00:37:24,3,Notstopp (sonstige),2025-12-17,0,Wednesday
+26,2025-12-17 01:07:53,1,Sonstige,2025-12-17,1,Wednesday
+26,2025-12-17 11:31:56,7,Notstopp (sonstige),2025-12-17,11,Wednesday
+26,2025-12-17 11:58:37,13,Klammer Timeout,2025-12-17,11,Wednesday
+26,2025-12-17 17:17:00,10,Sonstige,2025-12-17,17,Wednesday
+26,2025-12-17 18:10:03,13,Blockung,2025-12-17,18,Wednesday
+26,2025-12-18 04:27:53,5,Beladung nicht plausibel,2025-12-18,4,Thursday
+26,2025-12-18 09:59:05,0,Handbetrieb,2025-12-18,9,Thursday
+26,2025-12-18 10:05:24,0,Handbetrieb,2025-12-18,10,Thursday
+26,2025-12-18 14:24:43,3,Klammer Timeout,2025-12-18,14,Thursday
+26,2025-12-18 14:48:58,3,Klammer Timeout,2025-12-18,14,Thursday
+26,2025-12-18 15:41:09,1,Sonstige,2025-12-18,15,Thursday
+26,2025-12-18 16:24:41,13,Klammer Timeout,2025-12-18,16,Thursday
+26,2025-12-18 17:10:10,1,Sonstige,2025-12-18,17,Thursday
+26,2025-12-19 02:31:09,3,Beladung nicht plausibel,2025-12-19,2,Friday
+26,2025-12-19 04:40:39,2,Beladung nicht plausibel,2025-12-19,4,Friday
+26,2025-12-19 07:22:58,2,Beladung nicht plausibel,2025-12-19,7,Friday
+26,2025-12-19 09:33:02,4,Beladung nicht plausibel,2025-12-19,9,Friday
+26,2025-12-19 10:51:12,3,Notstopp (sonstige),2025-12-19,10,Friday
+26,2025-12-19 11:15:31,3,Handbetrieb,2025-12-19,11,Friday
+26,2025-12-19 11:23:45,10,Handbetrieb,2025-12-19,11,Friday
+26,2025-12-19 11:33:29,4,Handbetrieb,2025-12-19,11,Friday
+26,2025-12-19 12:37:14,0,Handbetrieb,2025-12-19,12,Friday
+26,2025-12-19 15:59:54,2,Handbetrieb,2025-12-19,15,Friday
+26,2025-12-19 16:06:05,0,Sonstige,2025-12-19,16,Friday
+26,2025-12-19 17:26:06,11,Beladung nicht plausibel,2025-12-19,17,Friday
+26,2025-12-19 19:27:43,2,Sonstige,2025-12-19,19,Friday
+26,2025-12-19 22:23:33,1,Handbetrieb,2025-12-19,22,Friday
+26,2025-12-20 00:48:28,2,Sonstige,2025-12-20,0,Saturday
+26,2025-12-20 05:23:44,20,Beladung nicht plausibel,2025-12-20,5,Saturday
+26,2025-12-20 05:44:02,0,Notstopp (sonstige),2025-12-20,5,Saturday
+26,2025-12-20 06:18:01,15,Beladung nicht plausibel,2025-12-20,6,Saturday
+26,2025-12-20 07:23:56,1,Blockung,2025-12-20,7,Saturday
+26,2025-12-20 09:05:59,2,Sonstige,2025-12-20,9,Saturday
+26,2025-12-20 10:13:24,1,Sonstige,2025-12-20,10,Saturday
+26,2025-12-20 10:48:59,1,Notstopp (sonstige),2025-12-20,10,Saturday
+26,2025-12-20 10:57:22,1,Sonstige,2025-12-20,10,Saturday
+26,2025-12-20 12:09:29,16,Notstopp (sonstige),2025-12-20,12,Saturday
+26,2025-12-20 12:25:26,4,Sonstige,2025-12-20,12,Saturday
+26,2025-12-20 14:28:03,1,Sonstige,2025-12-20,14,Saturday
+26,2025-12-20 16:08:05,0,Sonstige,2025-12-20,16,Saturday
+26,2025-12-20 20:19:58,3,Handbetrieb,2025-12-20,20,Saturday
+26,2025-12-20 23:36:00,0,Handbetrieb,2025-12-20,23,Saturday
+26,2025-12-21 05:00:10,0,Sonstige,2025-12-21,5,Sunday
+26,2025-12-21 07:46:59,2,Sonstige,2025-12-21,7,Sunday
+26,2025-12-21 08:04:30,4,Handbetrieb,2025-12-21,8,Sunday
+26,2025-12-21 10:34:49,0,Sonstige,2025-12-21,10,Sunday
+26,2025-12-21 11:05:04,5,Beladung nicht plausibel,2025-12-21,11,Sunday
+26,2025-12-21 11:34:14,2,Notstopp (sonstige),2025-12-21,11,Sunday
+26,2025-12-21 12:48:59,2,Notstopp (sonstige),2025-12-21,12,Sunday
+26,2025-12-21 13:24:50,2,Sonstige,2025-12-21,13,Sunday
+26,2025-12-21 13:53:03,0,Notstopp (sonstige),2025-12-21,13,Sunday
+26,2025-12-21 14:13:12,0,Handbetrieb,2025-12-21,14,Sunday
+26,2025-12-21 20:44:43,2,Sonstige,2025-12-21,20,Sunday
+26,2025-12-21 23:28:25,1,Handbetrieb,2025-12-21,23,Sunday
+26,2025-12-22 02:15:22,3,Klammer Timeout,2025-12-22,2,Monday
+26,2025-12-22 03:12:10,3,Sonstige,2025-12-22,3,Monday
+26,2025-12-22 03:21:50,1,Sonstige,2025-12-22,3,Monday
+26,2025-12-22 05:01:01,0,Sonstige,2025-12-22,5,Monday
+26,2025-12-22 08:09:46,4,Sonstige,2025-12-22,8,Monday
+26,2025-12-22 08:33:49,4,Notstopp (sonstige),2025-12-22,8,Monday
+26,2025-12-22 11:58:44,13,Handbetrieb,2025-12-22,11,Monday
+26,2025-12-22 12:12:11,1,Sonstige,2025-12-22,12,Monday
+26,2025-12-22 12:45:40,1,Sonstige,2025-12-22,12,Monday
+26,2026-01-05 09:05:26,6,Notstopp (sonstige),2026-01-05,9,Monday
+26,2026-01-05 09:19:37,6,Sonstige,2026-01-05,9,Monday
+26,2026-01-08 10:12:18,1,Sonstige,2026-01-08,10,Thursday
+26,2026-01-10 06:12:19,1,Sonstige,2026-01-10,6,Saturday
+26,2026-01-10 06:51:23,0,Beladung nicht plausibel,2026-01-10,6,Saturday
+26,2026-01-10 07:02:19,0,Klammer Timeout,2026-01-10,7,Saturday
+26,2026-01-10 17:07:43,6,Notstopp (sonstige),2026-01-10,17,Saturday
+26,2026-01-11 04:21:11,3,Beladung nicht plausibel,2026-01-11,4,Sunday
+26,2026-01-11 17:08:20,4,Notstopp (sonstige),2026-01-11,17,Sunday
+26,2026-01-11 18:50:25,4,Notstopp (sonstige),2026-01-11,18,Sunday
+26,2026-01-12 17:19:55,1,Notstopp (sonstige),2026-01-12,17,Monday
+26,2026-01-12 18:04:42,5,Sonstige,2026-01-12,18,Monday
+26,2026-01-12 18:34:52,2,Notstopp (sonstige),2026-01-12,18,Monday
+27,2025-12-07 16:47:32,1,Beladung nicht plausibel,2025-12-07,16,Sunday
+27,2025-12-08 19:52:14,6,Beladung nicht plausibel,2025-12-08,19,Monday
+27,2025-12-08 20:02:55,2,Handbetrieb,2025-12-08,20,Monday
+27,2025-12-09 18:32:00,1,Klammer Timeout,2025-12-09,18,Tuesday
+27,2025-12-09 18:51:15,1,Sonstige,2025-12-09,18,Tuesday
+27,2025-12-10 04:41:27,3,Notstopp (sonstige),2025-12-10,4,Wednesday
+27,2025-12-10 07:46:17,1,Notstopp (sonstige),2025-12-10,7,Wednesday
+27,2025-12-10 07:56:58,2,Notstopp (sonstige),2025-12-10,7,Wednesday
+27,2025-12-11 05:10:09,0,Notstopp (sonstige),2025-12-11,5,Thursday
+27,2025-12-11 07:32:01,4,Sonstige,2025-12-11,7,Thursday
+27,2025-12-11 07:58:51,1,Notstopp (sonstige),2025-12-11,7,Thursday
+27,2025-12-11 13:39:33,3,Notstopp (sonstige),2025-12-11,13,Thursday
+27,2025-12-11 15:38:49,4,Notstopp (sonstige),2025-12-11,15,Thursday
+27,2025-12-11 16:28:27,1,Sonstige,2025-12-11,16,Thursday
+27,2025-12-11 17:16:49,3,Notstopp (sonstige),2025-12-11,17,Thursday
+27,2025-12-11 17:33:44,2,Notstopp (sonstige),2025-12-11,17,Thursday
+27,2025-12-11 21:31:32,5,Notstopp (sonstige),2025-12-11,21,Thursday
+27,2025-12-11 22:34:21,3,Notstopp (sonstige),2025-12-11,22,Thursday
+27,2025-12-12 06:52:52,7,Sonstige,2025-12-12,6,Friday
+27,2025-12-12 07:38:14,0,Notstopp (sonstige),2025-12-12,7,Friday
+27,2025-12-12 10:05:18,3,Notstopp (sonstige),2025-12-12,10,Friday
+27,2025-12-12 11:09:50,7,Notstopp (sonstige),2025-12-12,11,Friday
+27,2025-12-12 20:48:25,0,Notstopp (sonstige),2025-12-12,20,Friday
+27,2025-12-12 23:26:17,3,Sonstige,2025-12-12,23,Friday
+27,2025-12-13 00:36:18,0,Sicherheitsfeld / SICK,2025-12-13,0,Saturday
+27,2025-12-13 01:17:59,14,Sonstige,2025-12-13,1,Saturday
+27,2025-12-13 01:33:19,0,Sonstige,2025-12-13,1,Saturday
+27,2025-12-14 02:25:32,0,Sonstige,2025-12-14,2,Sunday
+27,2025-12-14 06:16:44,0,Sonstige,2025-12-14,6,Sunday
+27,2025-12-14 11:12:24,0,Sonstige,2025-12-14,11,Sunday
+27,2025-12-15 06:46:04,4,Notstopp (sonstige),2025-12-15,6,Monday
+27,2025-12-15 17:07:01,1,Notstopp (sonstige),2025-12-15,17,Monday
+27,2025-12-15 17:35:06,0,Notstopp (sonstige),2025-12-15,17,Monday
+27,2025-12-15 17:45:42,2,Notstopp (sonstige),2025-12-15,17,Monday
+27,2025-12-15 19:18:14,1,Sonstige,2025-12-15,19,Monday
+27,2025-12-15 19:49:04,3,Notstopp (sonstige),2025-12-15,19,Monday
+27,2025-12-15 20:42:57,1,Notstopp (sonstige),2025-12-15,20,Monday
+27,2025-12-15 20:52:15,2,Klammer Timeout,2025-12-15,20,Monday
+27,2025-12-15 21:31:54,4,Sonstige,2025-12-15,21,Monday
+27,2025-12-15 22:33:14,2,Klammer Timeout,2025-12-15,22,Monday
+27,2025-12-15 22:41:40,2,Notstopp (sonstige),2025-12-15,22,Monday
+27,2025-12-16 00:00:47,3,Sicherheitsfeld / SICK,2025-12-16,0,Tuesday
+27,2025-12-16 08:01:47,2,Notstopp (sonstige),2025-12-16,8,Tuesday
+27,2025-12-16 10:33:05,0,Notstopp (sonstige),2025-12-16,10,Tuesday
+27,2025-12-16 12:00:57,1,Notstopp (sonstige),2025-12-16,12,Tuesday
+27,2025-12-16 14:31:22,1,Notstopp (sonstige),2025-12-16,14,Tuesday
+27,2025-12-16 14:45:38,3,Notstopp (sonstige),2025-12-16,14,Tuesday
+27,2025-12-16 15:00:59,14,Notstopp (sonstige),2025-12-16,15,Tuesday
+27,2025-12-16 15:29:10,3,Notstopp (sonstige),2025-12-16,15,Tuesday
+27,2025-12-16 16:29:07,3,Notstopp (sonstige),2025-12-16,16,Tuesday
+27,2025-12-16 16:36:53,5,Notstopp (sonstige),2025-12-16,16,Tuesday
+27,2025-12-16 16:46:03,3,Notstopp (sonstige),2025-12-16,16,Tuesday
+27,2025-12-16 17:36:02,4,Notstopp (sonstige),2025-12-16,17,Tuesday
+27,2025-12-16 18:03:15,0,Notstopp (sonstige),2025-12-16,18,Tuesday
+27,2025-12-16 18:18:36,3,Notstopp (sonstige),2025-12-16,18,Tuesday
+27,2025-12-16 18:26:24,7,Notstopp (sonstige),2025-12-16,18,Tuesday
+27,2025-12-16 18:38:27,2,Sonstige,2025-12-16,18,Tuesday
+27,2025-12-16 19:16:28,10,Notstopp (sonstige),2025-12-16,19,Tuesday
+27,2025-12-16 19:33:48,8,Notstopp (sonstige),2025-12-16,19,Tuesday
+27,2025-12-16 19:44:54,18,Notstopp (sonstige),2025-12-16,19,Tuesday
+27,2025-12-16 20:11:02,2,Notstopp (sonstige),2025-12-16,20,Tuesday
+27,2025-12-16 20:23:39,5,Notstopp (sonstige),2025-12-16,20,Tuesday
+27,2025-12-16 20:36:34,1,Notstopp (sonstige),2025-12-16,20,Tuesday
+27,2025-12-16 21:02:56,1,Notstopp (sonstige),2025-12-16,21,Tuesday
+27,2025-12-16 21:11:33,3,Notstopp (sonstige),2025-12-16,21,Tuesday
+27,2025-12-16 21:19:30,5,Notstopp (sonstige),2025-12-16,21,Tuesday
+27,2025-12-16 21:33:26,2,Notstopp (sonstige),2025-12-16,21,Tuesday
+27,2025-12-16 21:58:00,4,Notstopp (sonstige),2025-12-16,21,Tuesday
+27,2025-12-17 05:48:05,2,Notstopp (sonstige),2025-12-17,5,Wednesday
+27,2025-12-17 06:00:52,3,Notstopp (sonstige),2025-12-17,6,Wednesday
+27,2025-12-17 06:25:24,2,Sicherheitsfeld / SICK,2025-12-17,6,Wednesday
+27,2025-12-17 09:20:48,5,Notstopp (sonstige),2025-12-17,9,Wednesday
+27,2025-12-17 09:34:19,1,Notstopp (sonstige),2025-12-17,9,Wednesday
+27,2025-12-17 10:33:58,2,Notstopp (sonstige),2025-12-17,10,Wednesday
+27,2025-12-17 11:17:21,13,Notstopp (sonstige),2025-12-17,11,Wednesday
+27,2025-12-17 12:33:43,4,Klammer Timeout,2025-12-17,12,Wednesday
+27,2026-01-09 09:24:41,3,Sonstige,2026-01-09,9,Friday
+27,2026-01-10 06:12:48,1,Sonstige,2026-01-10,6,Saturday
+27,2026-01-10 07:52:33,2,Klammer Timeout,2026-01-10,7,Saturday
+27,2026-01-11 07:11:00,1,Klammer Timeout,2026-01-11,7,Sunday
