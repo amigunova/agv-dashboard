@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="AGV-Störungen – Dashboard", layout="wide")
 
 # Pfade zu den vorab generierten Dateien (aus modell.ipynb)
-EVENTS_FILE = Path("model_outputs/events_for_dashboard.csv")
-RISK_LATEST_FILE = Path("model_outputs/risk_latest.csv")
-RISK_SERIES_FILE = Path("model_outputs/risk_series.csv")
+EVENTS_FILE = Path("../agv_anomalie/model_outputs/events_for_dashboard.csv")
+RISK_LATEST_FILE = Path("../agv_anomalie/model_outputs/risk_latest.csv")
+RISK_SERIES_FILE = Path("../agv_anomalie/model_outputs/risk_series.csv")
 
 
 # -----------------------------------------------------------
