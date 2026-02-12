@@ -5,34 +5,36 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="AGV-Störungen – Dashboard", layout="wide")
 
-# Пути к заранее сгенерированным файлам (из modell.ipynb)
+# Pfade zu den vorab generierten Dateien (aus modell.ipynb)
 EVENTS_FILE = Path("model_outputs/events_for_dashboard.csv")
 RISK_LATEST_FILE = Path("model_outputs/risk_latest.csv")
 RISK_SERIES_FILE = Path("model_outputs/risk_series.csv")
 
 
 # -----------------------------------------------------------
-# Загрузка данных
+# Daten laden
 # -----------------------------------------------------------
 
 @st.cache_data
 def load_events():
     df = pd.read_csv(EVENTS_FILE, parse_dates=["EventTime"])
-    # Предполагаем, что в файле уже есть: Date, Hour, Weekday, VehicleNumber, Duration_min, EventCategory
+    # Es wird angenommen, dass die Datei bereits folgende Spalten enthält:
+    # Date, Hour, Weekday, VehicleNumber, Duration_min, EventCategory
     return df
 
 
 @st.cache_data
 def load_risk_latest():
-    # Ожидаемые колонки:
-    # VehicleNumber, risk_next1h, top3_causes_str, events_6h, downtime_6h, events_24h, downtime_24h, ref_time (опционально)
+    # Erwartete Spalten:
+    # VehicleNumber, risk_next1h, top3_causes_str,
+    # events_6h, downtime_6h, events_24h, downtime_24h, ref_time (optional)
     df = pd.read_csv(RISK_LATEST_FILE)
     return df
 
 
 @st.cache_data
 def load_risk_series():
-    # Ожидаемые колонки:
+    # Erwartete Spalten:
     # VehicleNumber, EventTime, risk_next1h, label_next1h
     df = pd.read_csv(RISK_SERIES_FILE, parse_dates=["EventTime"])
     return df
@@ -44,7 +46,7 @@ risk_series_df = load_risk_series()
 
 
 # -----------------------------------------------------------
-# Навигация
+# Navigation
 # -----------------------------------------------------------
 
 st.sidebar.title("Navigation")
@@ -81,10 +83,10 @@ if page == "Historische Statistik":
         total_downtime_h = df_filt["Duration_min"].sum() / 60
         st.metric("Gesamtausfallzeit (h)", f"{total_downtime_h:.1f}")
 
-    # --- Störungen pro Tag (с нулями для пустых дней) ---
+    # --- Störungen pro Tag (mit Nullen für Tage ohne Störungen) ---
     st.subheader("Störungen pro Tag")
 
-    # убедимся, что Date – datetime (а не просто date-объект)
+    # Sicherstellen, dass Date als Datetime interpretiert wird (nicht nur als Date-Objekt)
     df_filt["Date_dt"] = pd.to_datetime(df_filt["Date"])
 
     events_per_day = df_filt.groupby("Date_dt").size()
@@ -99,7 +101,7 @@ if page == "Historische Statistik":
         events_per_day.index.name = "Date"
     st.bar_chart(events_per_day)
 
-    # --- Gesamtausfallzeit pro Tag [Minuten] (тоже с нулями) ---
+    # --- Gesamtausfallzeit pro Tag [Minuten] (ebenfalls mit Nullen) ---
     st.subheader("Gesamtausfallzeit pro Tag [Minuten]")
 
     downtime_per_day = df_filt.groupby("Date_dt")["Duration_min"].sum()
@@ -114,7 +116,7 @@ if page == "Historische Statistik":
         downtime_per_day.index.name = "Date"
     st.bar_chart(downtime_per_day)
 
-    # --- остальное как было: Top-Fahrzeuge, Stunde, Wochentag ---
+    # --- Rest wie gehabt: Top-Fahrzeuge, Stunde, Wochentag ---
     st.subheader("Top-Fahrzeuge nach Störungen und Ausfallzeit")
     kpi_vehicle = df_filt.groupby("VehicleNumber").agg(
         events=("EventTime", "count"),
@@ -152,13 +154,13 @@ if page == "Historische Statistik":
     st.bar_chart(events_per_weekday)
 
     st.caption(
-        "Filter wirkt auf alle Kennzahlen oben. "
+        "Der Filter wirkt auf alle Kennzahlen oben. "
         "Bei leerer Auswahl werden alle Fahrzeuge berücksichtigt."
     )
 
 
 # -----------------------------------------------------------
-# Seite 2 – Prognose: alle Fahrzeuge (из risk_latest.csv)
+# Seite 2 – Prognose: alle Fahrzeuge (aus risk_latest.csv)
 # -----------------------------------------------------------
 elif page == "Prognose – alle Fahrzeuge":
     st.title("Prognose – Risikoscore für alle Fahrzeuge (nächste Stunde)")
@@ -168,7 +170,7 @@ elif page == "Prognose – alle Fahrzeuge":
         "als Datei gespeichert. Das Dashboard zeigt **nur die Ergebnisse**."
     )
 
-    # Если в risk_latest_df есть колонка ref_time – покажем последний момент
+    # Falls in risk_latest_df eine Spalte ref_time vorhanden ist, den Referenzzeitpunkt anzeigen
     ref_time_str = ""
     if "ref_time" in risk_latest_df.columns:
         try:
@@ -178,7 +180,7 @@ elif page == "Prognose – alle Fahrzeuge":
             ref_time_str = ""
 
     risk_tbl = risk_latest_df.copy()
-    # Ожидается колонка risk_next1h
+    # Erwartete Spalte: risk_next1h
     risk_tbl["Risk (%)"] = (risk_tbl["risk_next1h"] * 100).round(1)
 
     st.subheader(f"Risiko pro Fahrzeug{ref_time_str}")
@@ -201,7 +203,7 @@ elif page == "Prognose – alle Fahrzeuge":
 
 
 # -----------------------------------------------------------
-# Seite 3 – Prognose: einzelnes Fahrzeug (из risk_series.csv)
+# Seite 3 – Prognose: einzelnes Fahrzeug (aus risk_series.csv)
 # -----------------------------------------------------------
 elif page == "Prognose – einzelnes Fahrzeug":
     st.title("Prognose – einzelnes Fahrzeug (nächste Stunde)")
@@ -220,12 +222,12 @@ elif page == "Prognose – einzelnes Fahrzeug":
             "(Vorhersagehorizont: nächste Stunde)."
         )
 
-        # Возьмём последний доступный риск как „aktueller“
+        # Letzten verfügbaren Risikowert als „aktuellen“ Wert interpretieren
         last_row = veh_series.sort_values("EventTime").iloc[-1]
         risk_value = float(last_row["risk_next1h"])
         risk_percent = risk_value * 100
 
-        # Если у нас есть файл risk_latest_df – заберём оттуда причины
+        # Falls risk_latest_df vorhanden ist: Top-3-Ursachen dort auslesen
         causes_str = ""
         row_latest = risk_latest_df[risk_latest_df["VehicleNumber"] == selected_vehicle]
         if not row_latest.empty and "top3_causes_str" in row_latest.columns:
